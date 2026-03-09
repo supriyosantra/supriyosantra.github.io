@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/me.jpg"
   name             : "Supriyo Santra"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical and computational chemist studying excited-state electronic structure, singlet fission, and excitonic interactions."
