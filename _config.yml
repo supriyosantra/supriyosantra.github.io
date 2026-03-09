@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Supriyo Santra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Theoretical and computational chemist studying excited-state electronic structure, singlet fission, and excitonic interactions."
+  location         : "India"
+  employer         : "Indian Association for the Cultivation of Science"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "supriyosantra2013@gmail.com" 
 
   # Academic websites
   academia         : # URL
