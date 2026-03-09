@@ -13,9 +13,10 @@ I am a theoretical and computational chemist working on the electronic structure
 
 My research focuses on:
 
-• excitonic interactions in molecular aggregates  
-• singlet fission and triplet-pair states  
-• many-body descriptions of excited states  
-• theoretical models for molecular photophysics
+- excitonic interactions in molecular aggregates  
+- singlet fission and correlated triplet states  
+- theoretical modelling of excited-state processes  
+- photophysical phenomena in biological and organic systems  
 
-My work combines **ab initio electronic structure theory** with **model Hamiltonians** to understand excited-state processes in organic and biological systems.
+Currently by combining **ab initio electronic structure theory** with **model Hamiltonians** I am trying to develop a microscopic understanding of excited-state dynamics in
+complex molecular systems.
