@@ -18,5 +18,4 @@ My research focuses on:
 - theoretical modelling of excited-state processes  
 - photophysical phenomena in biological and organic systems  
 
-Currently by combining **ab initio electronic structure theory** with **model Hamiltonians** I am trying to develop a microscopic understanding of excited-state dynamics in
-complex molecular systems.
+Currently, I combine **ab initio electronic structure** theory with **model Hamiltonians** to develop a microscopic understanding of excited-state dynamics in complex molecular systems.
