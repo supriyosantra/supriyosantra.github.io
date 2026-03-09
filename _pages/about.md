@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p align="center">
+<img src="/images/research.png" width="500">
+</p>
 I am a theoretical and computational chemist working on the electronic structure and dynamics of molecular excited states.
 
 My research focuses on:
