@@ -23,7 +23,7 @@ repository               : "supriyosantra/supriyosantra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.jpg"
+  avatar           : "/images/me.jpg"
   name             : "Supriyo Santra"
   pronouns         : # example: "she/her"  
   bio              : ""
