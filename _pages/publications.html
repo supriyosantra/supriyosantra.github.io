@@ -13,29 +13,37 @@ author_profile: true
 
 {% for post in site.publications reversed %}
 
-<div style="margin-bottom:40px; padding-bottom:20px; border-bottom:1px solid #ddd;">
+<div class="pub-card">
 
-<h3 style="margin-bottom:5px;">
-<a href="{{ post.paperurl }}">{{ post.title }}</a>
-</h3>
+  {% if post.thumbnail %}
+  <div class="pub-thumb">
+    <img src="{{ post.thumbnail }}">
+  </div>
+  {% endif %}
 
-<p style="margin:4px 0;">
-{{ post.authors }}
-</p>
+  <div class="pub-content">
 
-<p style="margin:4px 0;">
-<i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
-</p>
+    <h3 class="pub-title">
+      <a href="{{ post.paperurl }}">{{ post.title }}</a>
+    </h3>
 
-{% if post.excerpt %}
-<p style="margin:8px 0;">
-{{ post.excerpt }}
-</p>
-{% endif %}
+    <div class="pub-authors">
+      {{ post.authors }}
+    </div>
 
-{% if post.paperurl %}
-<a href="{{ post.paperurl }}">Download Paper</a>
-{% endif %}
+    <div class="pub-journal">
+      <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}
+    </div>
+
+    <p class="pub-summary">
+      {{ post.excerpt }}
+    </p>
+
+    {% if post.paperurl %}
+    <a class="pub-button" href="{{ post.paperurl }}">Download</a>
+    {% endif %}
+
+  </div>
 
 </div>
 
