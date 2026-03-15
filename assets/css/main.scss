@@ -4,13 +4,15 @@
 
 @import "minimal-mistakes";
 
-/* Expand site width */
-.initial-content {
-  max-width: 1600px;
-  margin-left: auto;
-  margin-right: auto;
+/* Force full-width layout */
+#main {
+  max-width: 1600px !important;
 }
 
-.page__inner-wrap {
-  max-width: 1600px;
+.page {
+  max-width: 1600px !important;
+}
+
+.archive {
+  max-width: 1600px !important;
 }
