@@ -94,11 +94,13 @@ max-width:900px;
 .pub-button{
 display:inline-block;
 margin-top:12px;
-padding:7px 16px;
+padding:8px 18px;
 background:#3F6F63;
-color:white;
+color:white !important;
 border-radius:8px;
 font-size:0.85rem;
+font-weight:600;
+letter-spacing:0.5px;
 text-decoration:none;
 }
 
