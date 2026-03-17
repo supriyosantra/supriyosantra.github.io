@@ -178,3 +178,18 @@ margin-bottom:0.8em;
 body{
 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
+/* Larger text ONLY on homepage */
+.layout--single.home .page__content p{
+font-size:1.05rem;
+line-height:1.7;
+}
+
+/* bullet points */
+.layout--single.home .page__content li{
+font-size:1.05rem;
+}
+
+/* optional: heading slightly larger */
+.layout--single.home h2{
+font-size:1.6rem;
+}
