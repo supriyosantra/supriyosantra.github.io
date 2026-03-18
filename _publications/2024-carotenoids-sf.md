@@ -4,7 +4,7 @@ authors: "Supriyo Santra, Debashree Ghosh"
 venue: "The Journal of Physical Chemistry A"
 date: 2025-03-05
 paperurl: "https://pubs.acs.org/doi/abs/10.1021/acs.jpca.5c00060"
-thumbnail: "/images/sf_image_2.png"
+thumbnail: "/images/SF_vib.png"
 excerpt: "Elucidates the vibronic mechanisms underlying singlet fission in carotenoids."
 collection: publications
 ---
