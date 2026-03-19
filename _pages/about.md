@@ -30,7 +30,7 @@ with a focus on singlet fission, excitonic interactions, and energy transfer.
 
 <!-- RIGHT (YOUR PHOTO) -->
 <div>
-<img src="/images/your-photo.jpg" style="width:180px; border-radius: 50%;">
+<img src="/images/me.jpg" style="width:180px; border-radius: 50%;">
 </div>
 
 </div>
