@@ -49,7 +49,11 @@
   border-radius:8px;
   display:block;
 }
-
+.pub-thumb{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 /* content */
 .pub-content{
   flex:1;
