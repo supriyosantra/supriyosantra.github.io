@@ -19,93 +19,90 @@
 
 /* publication card */
 .pub-card{
-display:flex;
-gap:36px;
-margin-bottom:50px;
-padding:32px 36px;
-border-radius:16px;
+  display:flex;
+  gap:28px;                 /* reduced from 36 */
+  margin-bottom:28px;       /* reduced from 50 */
+  padding:20px 24px;        /* reduced from 32px 36px */
+  border-radius:10px;       /* reduced from 16 */
 
-/* improved background */
-background:#F6F7F8;
+  background:#ffffff;       /* cleaner than grey */
+  border:1px solid #eeeeee;
 
-/* softer shadow */
-box-shadow:0 6px 18px rgba(0,0,0,0.08);
-
-/* smooth hover */
-transition:all 0.2s ease;
+  box-shadow:0 2px 8px rgba(0,0,0,0.05);  /* much lighter */
+  transition:all 0.18s ease;
 }
 
-/* hover lift */
+/* hover (more subtle) */
 .pub-card:hover{
-transform:translateY(-3px);
-box-shadow:0 10px 26px rgba(0,0,0,0.12);
+  transform:translateY(-2px);
+  box-shadow:0 6px 16px rgba(0,0,0,0.08);
 }
 
 /* thumbnail */
 .pub-thumb img{
-width:240px;
-border-radius:12px;
-display:block;
+  width:180px;              /* reduced from 240 */
+  border-radius:8px;
+  display:block;
 }
 
 /* content */
 .pub-content{
-flex:1;
+  flex:1;
 }
 
 /* title */
 .pub-title{
-font-size:1.18rem;   /* slightly smaller */
-font-weight:600;
-line-height:1.35;
-margin-bottom:10px;
+  font-size:1.1rem;         /* slightly tighter */
+  font-weight:600;
+  line-height:1.32;
+  margin-bottom:6px;        /* tighter */
 }
 
 /* title color */
 .pub-title a{
-text-decoration:none;
-border-bottom:none;
-color:#2C6E7F;
+  text-decoration:none;
+  border-bottom:none;
+  color:#2C6E7F;
 }
 
 /* authors */
 .pub-authors{
-font-size:0.95rem;
-margin-bottom:6px;
-color:#2F2F2F;
+  font-size:0.92rem;
+  margin-bottom:4px;
+  color:#333;
 }
 
 /* journal */
 .pub-journal{
-font-size:0.95rem;
-color:#555555;
-font-style:italic;
-margin-bottom:12px;
+  font-size:0.9rem;
+  color:#666;
+  font-style:italic;
+  margin-bottom:8px;
 }
 
 /* summary */
 .pub-summary{
-font-size:0.92rem;
-color:#6A6A6A;
-max-width:900px;
+  font-size:0.9rem;
+  color:#777;
+  max-width:700px;          /* slightly tighter line length */
 }
 
 /* DOI button */
 .pub-button{
-display:inline-block;
-margin-top:12px;
-padding:8px 18px;
-background:#3F6F63;
-color:white !important;
-border-radius:8px;
-font-size:0.85rem;
-font-weight:600;
-letter-spacing:0.5px;
-text-decoration:none;
+  display:inline-block;
+  margin-top:10px;
+  padding:6px 14px;         /* smaller */
+  background:#3F6F63;
+  color:white !important;
+  border-radius:6px;        /* slightly sharper */
+  font-size:0.8rem;
+  font-weight:600;
+  letter-spacing:0.4px;
+  text-decoration:none;
 }
 
 .pub-button:hover{
-background:#2E544A;
+  background:#2E544A;
 }
 
 /* fix sidebar position */
