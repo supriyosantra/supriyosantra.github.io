@@ -10,26 +10,38 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
 ---
 
-<div class="research-grid">
+<div class="research-list">
 
-  <div class="research-card">
-    <h3>Exciton Dynamics</h3>
-    <p>Understanding intermolecular coupling and exciton transport in aggregates.</p>
-  </div>
+  <a href="/research/singlet-fission/" class="research-item">
+    <img src="/images/sf.png" alt="">
+    <div class="research-text">
+      <h3>Singlet Fission</h3>
+      <p>Mechanistic insights into excimer-mediated processes, vibronic effects, and correlated triplet-pair formation.</p>
+    </div>
+  </a>
 
-  <div class="research-card">
-    <h3>Singlet Fission</h3>
-    <p>Mechanistic insights into correlated triplet-pair formation and dynamics.</p>
-  </div>
+  <a href="/research/excited-state/" class="research-item">
+    <img src="/images/excited.png" alt="">
+    <div class="research-text">
+      <h3>Excited-State Electronic Structure</h3>
+      <p>How electronic structure and molecular geometry govern photophysics in organic and biological chromophores.</p>
+    </div>
+  </a>
 
-  <div class="research-card">
-    <h3>Model Hamiltonians</h3>
-    <p>Minimal models capturing essential excited-state physics.</p>
-  </div>
+  <a href="/research/vibronic/" class="research-item">
+    <img src="/images/vibronic.png" alt="">
+    <div class="research-text">
+      <h3>Vibronic Dynamics</h3>
+      <p>Role of vibrational coupling, nonradiative decay, and energy redistribution in excited-state processes.</p>
+    </div>
+  </a>
 
-  <div class="research-card">
-    <h3>Photophysics</h3>
-    <p>Ultrafast relaxation and structure–function relationships.</p>
-  </div>
+  <a href="/research/models/" class="research-item">
+    <img src="/images/models.png" alt="">
+    <div class="research-text">
+      <h3>Theoretical Models</h3>
+      <p>Minimal and physically insightful models for complex excited-state interactions.</p>
+    </div>
+  </a>
 
 </div>
