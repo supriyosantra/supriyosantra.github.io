@@ -10,20 +10,26 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
 ---
 
-### Exciton Dynamics in Molecular Aggregates  
-Understanding how intermolecular coupling shapes exciton delocalization and transport.
+<div class="research-grid">
 
----
+  <div class="research-card">
+    <h3>Exciton Dynamics</h3>
+    <p>Understanding intermolecular coupling and exciton transport in aggregates.</p>
+  </div>
 
-### Singlet Fission and Correlated Triplet States  
-Mechanistic insights into triplet-pair formation and evolution.
+  <div class="research-card">
+    <h3>Singlet Fission</h3>
+    <p>Mechanistic insights into correlated triplet-pair formation and dynamics.</p>
+  </div>
 
----
+  <div class="research-card">
+    <h3>Model Hamiltonians</h3>
+    <p>Minimal models capturing essential excited-state physics.</p>
+  </div>
 
-### Model Hamiltonians for Excited-State Processes  
-Developing minimal models to capture complex excited-state behavior.
+  <div class="research-card">
+    <h3>Photophysics</h3>
+    <p>Ultrafast relaxation and structure–function relationships.</p>
+  </div>
 
----
-
-### Photophysics in Biological and Organic Systems  
-Exploring ultrafast relaxation and structure–function relationships.
+</div>
