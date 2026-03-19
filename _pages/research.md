@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: false
 classes: wide
 ---
-## Research
+
 
 I investigate how electronic structure governs excited-state dynamics in molecular systems, with emphasis on singlet fission, excitonic interactions, and energy transfer.
 
