@@ -37,19 +37,31 @@ with a focus on singlet fission, excitonic interactions, and energy transfer.
 
 
 
-## Research Highlights
+<h2>Research Highlights</h2>
 
-### Singlet Fission Mechanisms
-Elucidating pathways of singlet fission in molecular systems, including excimer-mediated processes and correlated triplet-pair formation.
+<div class="highlight-grid">
 
-### Excited-State Electronic Structure
-Understanding how electronic structure and molecular geometry govern photophysical processes in organic and biological chromophores.
+  <div class="highlight-card">
+    <h3>Singlet Fission</h3>
+    <p>Mechanistic understanding of excimer-mediated processes and correlated triplet-pair formation.</p>
+  </div>
 
-### Vibronic and Photophysical Dynamics
-Investigating the role of vibrational coupling, nonradiative decay, and energy redistribution in complex excited-state processes.
+  <div class="highlight-card">
+    <h3>Excited-State Structure</h3>
+    <p>How electronic structure and molecular geometry govern photophysics in organic and biological chromophores.</p>
+  </div>
 
-### Theoretical Models for Complex Dynamics
-Developing minimal and physically insightful models to describe excited-state interactions beyond conventional approximations.
+  <div class="highlight-card">
+    <h3>Vibronic Dynamics</h3>
+    <p>Role of vibrational coupling, nonradiative decay, and energy redistribution in excited states.</p>
+  </div>
+
+  <div class="highlight-card">
+    <h3>Theoretical Models</h3>
+    <p>Minimal and physically insightful models for complex excited-state interactions.</p>
+  </div>
+
+</div>
 <br>
 
 I combine **ab initio electronic structure methods** with **model Hamiltonians**
