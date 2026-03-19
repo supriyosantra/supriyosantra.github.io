@@ -36,12 +36,6 @@ with a focus on singlet fission, excitonic interactions, and energy transfer.
 </div>
 
 
-<!-- RESEARCH FIGURE -->
-<p align="center">
-<img src="/images/cover.png" width="500">
-</p>
-
-<br>
 
 ## Research Focus
 
