@@ -30,16 +30,15 @@ with a focus on singlet fission, excitonic interactions, and energy transfer.
 
 <!-- RIGHT (YOUR PHOTO) -->
 <div>
-<img src="/images/me.jpg" style="width:180px; border-radius: 50%;">
+<img src="/images/me.jpg" style="width:180px; border-radius: 60%;">
 </div>
 
 </div>
 
-<br><br>
 
 <!-- RESEARCH FIGURE -->
 <p align="center">
-<img src="/images/cover.png" width="600">
+<img src="/images/cover.png" width="500">
 </p>
 
 <br>
