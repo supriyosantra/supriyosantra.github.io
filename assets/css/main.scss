@@ -23,7 +23,7 @@
   align-items: center;   
   gap:28px;
   margin-bottom:28px;
-  padding:20px 24px;
+  padding: 12px 24px 16px 24px;
   border-radius:10px;
 
   background:#ffffff;
@@ -63,6 +63,7 @@
   font-size:1.1rem;         /* slightly tighter */
   font-weight:600;
   line-height:1.32;
+  margin-top:0;
   margin-bottom:6px;        /* tighter */
 }
 
@@ -70,7 +71,7 @@
 .pub-title a{
   text-decoration:none;
   border-bottom:none;
-  color:#2C6E7F;
+  color:#2b4f60;
 }
 
 /* authors */
