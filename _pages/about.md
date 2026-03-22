@@ -21,9 +21,9 @@ with a focus on singlet fission, excitonic interactions, and energy transfer.
 </p>
 
 <p>
-<a href="#">Email</a> |
-<a href="#">Google Scholar</a> |
-<a href="#">ORCID</a>
+<a href="supriyosantra2013@gmail.com">Email</a> |
+<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en">Google Scholar</a> |
+<a href="https://orcid.org/0000-0003-4884-2250">ORCID</a>
 </p>
 
 </div>
@@ -35,34 +35,31 @@ with a focus on singlet fission, excitonic interactions, and energy transfer.
 
 </div>
 
+## Research Overview
 
+My research focuses on understanding excited-state dynamics in molecular systems using quantum chemical methods. I investigate how electronic structure and molecular motion govern nonradiative relaxation pathways, excitonic interactions, and energy-transfer processes.
 
-<h2>Research Highlights</h2>
+A central theme of my work is the development of physically transparent **model Hamiltonians** informed by **ab initio electronic structure calculations**, enabling mechanistic insight into correlated excited states such as triplet-pair formation in singlet fission.
 
-<div class="highlight-grid">
+These studies span organic chromophores, molecular aggregates, and biologically relevant systems including phytochromes and nucleic acid bases.
 
-  <div class="highlight-card">
-    <h3>Singlet Fission</h3>
-    <p>Mechanistic understanding of excimer-mediated processes and correlated triplet-pair formation.</p>
-  </div>
+## Research Interests
 
-  <div class="highlight-card">
-    <h3>Excited-State Structure</h3>
-    <p>How electronic structure and molecular geometry govern photophysics in organic and biological chromophores.</p>
-  </div>
+- Singlet fission and correlated triplet states  
+- Vibronic effects in excited-state dynamics  
+- Excitonic interactions in molecular aggregates  
+- Photophysics of biological chromophores  
+- Model Hamiltonians for excited-state processes
+  
+## Selected Publications
 
-  <div class="highlight-card">
-    <h3>Vibronic Dynamics</h3>
-    <p>Role of vibrational coupling, nonradiative decay, and energy redistribution in excited states.</p>
-  </div>
+**Delineating the Roaming and Non-Roaming Pathways for NO Release**  
+*Chemical Communications, 2026*
 
-  <div class="highlight-card">
-    <h3>Theoretical Models</h3>
-    <p>Minimal and physically insightful models for complex excited-state interactions.</p>
-  </div>
+**Unraveling the Geometrical Effects on Singlet Fission of Carotenoids**  
+*Journal of Physical Chemistry A, 2025*
 
-</div>
-<br>
+**Photophysics of Nitro-Substituted Unnatural Nucleic Acid Base**  
+*Journal of Physical Chemistry A, 2024*
 
-I combine **ab initio electronic structure methods** with **model Hamiltonians**
-to develop a microscopic understanding of excited-state dynamics in complex molecular systems.
+See the full list in the **Publications** section.
