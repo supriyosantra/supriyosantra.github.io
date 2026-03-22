@@ -14,6 +14,8 @@ redirect_from:
 <h1 style="margin-bottom: 5px;">Supriyo Santra</h1>
 
 <p><strong>Theoretical & Computational Chemist</strong></p>
+**Postdoctoral Researcher**  
+Indian Association for the Cultivation of Science (IACS), Kolkata
 
 <p>
 I study electronic structure and excited-state dynamics in molecular systems,
