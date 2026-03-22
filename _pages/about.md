@@ -17,11 +17,9 @@ redirect_from:
 <p><strong>Indian Association for the Cultivation of Science (IACS), Kolkata</strong></p>
 
 
-<p>
-<a href="supriyosantra2013@gmail.com">Email</a> |
-<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en">Google Scholar</a> |
-<a href="https://orcid.org/0000-0003-4884-2250">ORCID</a>
-</p>
+📧 [Email](mailto:supriyosantra2013@gmail.com) · 
+🎓 [Google Scholar](https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en) · 
+🆔 [ORCID](https://orcid.org/0000-0003-4884-2250)
 
 </div>
 
