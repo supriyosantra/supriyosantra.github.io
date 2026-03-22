@@ -16,10 +16,6 @@ redirect_from:
 <p><strong>Research Associate</strong></p>
 <p><strong>Indian Association for the Cultivation of Science (IACS), Kolkata</strong></p>
 
-<p>
-I study electronic structure and excited-state dynamics in molecular systems,
-with a focus on singlet fission, excitonic interactions, and energy transfer.
-</p>
 
 <p>
 <a href="supriyosantra2013@gmail.com">Email</a> |
