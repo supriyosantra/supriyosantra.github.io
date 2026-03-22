@@ -40,14 +40,7 @@ A central theme of my work is the development of physically transparent **model 
 
 These studies span organic chromophores, molecular aggregates, and biologically relevant systems including phytochromes and nucleic acid bases.
 
-## Research Interests
 
-- Singlet fission and correlated triplet states  
-- Vibronic effects in excited-state dynamics  
-- Excitonic interactions in molecular aggregates  
-- Photophysics of biological chromophores  
-- Model Hamiltonians for excited-state processes
-  
 ## Selected Publications
 
 **Delineating the Roaming and Non-Roaming Pathways for NO Release**  
