@@ -326,30 +326,31 @@ font-size:1.6rem;
 .page__content{
   padding-left: 10px;
 }
+
 /* Section headings */
-h2{
-  font-size: 1.7rem;
+.page__content h2{
+  font-size: 1.6rem;
   margin-top: 36px;
   margin-bottom: 14px;
 }
 
-/* Sub-headings (if used) */
-h3{
-  font-size: 1.3rem;
+/* Sub-headings */
+.page__content h3{
+  font-size: 1.25rem;
 }
 
-/* Body text */
-.page__content p{
+/* Homepage paragraph text only */
+.page__content > p{
   font-size: 1.02rem;
   line-height: 1.7;
 }
 
-/* Publication titles */
-.page__content strong{
-  font-size: 1.02rem;
-}
+/* REMOVE THIS — very important */
+/* .page__content strong{
+     font-size: 1.02rem;
+} */
+
 .title-line {
   margin: 0;
   line-height: 1.35;
 }
-
