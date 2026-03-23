@@ -18,21 +18,27 @@ Research Associate<br>
 Indian Association for the Cultivation of Science (IACS), Kolkata
 </p>
 
-<p class="contact-links">
+<div class="icon-row">
+
+<a href="/cv/" target="_blank">
+<i class="fas fa-file-alt"></i>
+<span>CV</span>
+</a>
 
 <a href="mailto:supriyosantra2013@gmail.com">
-<i class="fas fa-envelope"></i> Email
+<i class="fas fa-envelope"></i>
+<span>Email</span>
 </a>
 
-<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en">
-<i class="fas fa-graduation-cap"></i> Google Scholar
+<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en" target="_blank">
+<i class="fas fa-graduation-cap"></i>
+<span>Scholar</span>
 </a>
 
-<a href="https://orcid.org/0000-0003-4884-2250">
-<i class="fab fa-orcid"></i> ORCID
+<a href="https://orcid.org/0000-0003-4884-2250" target="_blank">
+<i class="fab fa-orcid"></i>
+<span>ORCID</span>
 </a>
-
-</p>
 
 </div>
 
