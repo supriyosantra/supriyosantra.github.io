@@ -18,9 +18,9 @@ redirect_from:
 
 
 <p>
-<a href="mailto:supriyosantra2013@gmail.com">📧 Email</a> · 
-<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en">🎓 Google Scholar</a> · 
-<a href="https://orcid.org/0000-0003-4884-2250">🆔 ORCID</a>
+<a href="mailto:supriyosantra2013@gmail.com">📧</a> · 
+<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en">🎓</a> · 
+<a href="https://orcid.org/0000-0003-4884-2250">🆔</a>
 </p>
 
 </div>
@@ -34,7 +34,7 @@ redirect_from:
 
 ## Research Overview
 
-My research focuses on understanding excited-state dynamics in molecular systems using quantum chemical methods. I investigate how electronic structure and molecular motion govern nonradiative relaxation pathways, excitonic interactions, and energy-transfer processes.
+I am a theoretical chemist interested in understanding excited-state dynamics in molecular systems using quantum chemical methods. I investigate how electronic structure and molecular motion govern nonradiative relaxation pathways, excitonic interactions, and energy-transfer processes.
 
 A central theme of my work is the development of physically transparent **model Hamiltonians** informed by **ab initio electronic structure calculations**, enabling mechanistic insight into correlated excited states such as triplet-pair formation in singlet fission.
 
