@@ -41,7 +41,7 @@ Indian Association for the Cultivation of Science (IACS), Kolkata
 </a>
 
 </div>
-
+</div>
 <!-- RIGHT (YOUR PHOTO) -->
 <div>
 <img src="/images/me.jpg" style="width:180px; border-radius: 60%;">
