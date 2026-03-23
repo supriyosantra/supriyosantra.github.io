@@ -39,7 +39,7 @@ A central theme of my work is the development of physically transparent **model 
 These studies span organic chromophores, molecular aggregates, and biologically relevant systems including phytochromes and nucleic acid bases.
 
 
-## Selected Publications
+## Recent Publications
 
 **Delineating the Roaming and Non-Roaming Pathways for NO Release**  
 *Chemical Communications, 2026*
