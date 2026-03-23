@@ -32,8 +32,6 @@ redirect_from:
 
 </div>
 
-## Research Overview
-
 I am a theoretical chemist interested in understanding excited-state dynamics in molecular systems using quantum chemical methods. I investigate how electronic structure and molecular motion govern nonradiative relaxation pathways, excitonic interactions, and energy-transfer processes.
 
 A central theme of my work is the development of physically transparent **model Hamiltonians** informed by **ab initio electronic structure calculations**, enabling mechanistic insight into correlated excited states such as triplet-pair formation in singlet fission.
