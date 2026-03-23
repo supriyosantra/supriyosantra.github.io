@@ -13,8 +13,8 @@ redirect_from:
 
 <h1 style="margin-bottom: 5px;">Supriyo Santra</h1>
 
-<p><strong>Research Associate</strong></p>
-<p><strong>Indian Association for the Cultivation of Science (IACS), Kolkata</strong></p>
+<p>Research Associate</p>
+<p>Indian Association for the Cultivation of Science (IACS), Kolkata</p>
 
 
 <p>
