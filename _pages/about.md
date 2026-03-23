@@ -13,9 +13,10 @@ redirect_from:
 
 <h1 style="margin-bottom: 5px;">Supriyo Santra</h1>
 
-<p>Research Associate</p>
-<p>Indian Association for the Cultivation of Science (IACS), Kolkata</p>
-
+<p class="title-line">
+Research Associate<br>
+Indian Association for the Cultivation of Science (IACS), Kolkata
+</p>
 
 <p>
 <a href="mailto:supriyosantra2013@gmail.com">📧</a> · 
