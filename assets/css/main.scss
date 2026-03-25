@@ -160,7 +160,7 @@ font-size:0.9rem;
 font-size:0.85rem;
 }
 .pub-title{
-font-size:1.1rem;
+font-size:0.8rem;
 font-weight:600;
 }
 
@@ -183,7 +183,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, A
 }
 /* Larger text ONLY on homepage */
 .layout--single.home .page__content p{
-font-size:1.05rem;
+font-size:1.08rem;
 line-height:1.7;
 }
 
@@ -194,7 +194,7 @@ font-size:1.05rem;
 
 /* optional: heading slightly larger */
 .layout--single.home h2{
-font-size:1.6rem;
+font-size:1.45rem;
 }
 .research-grid{
   display:grid;
@@ -352,4 +352,7 @@ font-size:1.6rem;
   line-height: 1.35;
   font-size: 1.15rem; 
   color: #555;
+}
+.layout--single.home h1{
+  font-size:2.0rem;
 }
