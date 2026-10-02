@@ -52,10 +52,8 @@ author_profile: false
 <section class="about-section">
 
   <div class="section-kicker">
-    02 · ACADEMIC JOURNEY
+     ACADEMIC JOURNEY
   </div>
-
-  <h2>From molecular electronic structure to excited-state dynamics.</h2>
 
   <div class="about-timeline">
 
@@ -201,15 +199,14 @@ author_profile: false
 
   <h2>The foundation behind the research.</h2>
 
+  <div class="about-timeline">
 
-  <div class="education-grid">
 
+    <!-- M.Sc. -->
 
-    <!-- MSC -->
+    <div class="about-timeline-item">
 
-    <div class="education-card">
-
-      <div class="education-logo">
+      <div class="about-timeline-marker">
 
         <!-- University logo will go here -->
         <div class="institution-logo-placeholder">
@@ -219,29 +216,34 @@ author_profile: false
       </div>
 
 
-      <div class="education-content">
+      <div class="about-timeline-content">
 
-        <div class="education-year">
+        <div class="timeline-date">
           2017 — 2019
         </div>
 
         <h3>M.Sc. Chemistry</h3>
 
-        <p class="education-institution">
-          School of Chemistry<br>
-          University of Hyderabad
+        <p class="timeline-place">
+          School of Chemistry, University of Hyderabad
+          <span>·</span>
+          Hyderabad, India
         </p>
 
-        <div class="education-detail">
+        <p>
           First Class with Distinction
-        </div>
+        </p>
 
         <p>
-          <strong>Thesis</strong><br>
+          <strong>Thesis:</strong>
           <em>
             The Jahn-Teller and pseudo-Jahn-Teller effect in lowest
             three electronic states of ethane radical cation
           </em>
+        </p>
+
+        <p class="timeline-supervisor">
+          Supervisor · Prof. Susanta Mahapatra
         </p>
 
       </div>
@@ -249,11 +251,11 @@ author_profile: false
     </div>
 
 
-    <!-- BSC -->
+    <!-- B.Sc. -->
 
-    <div class="education-card">
+    <div class="about-timeline-item">
 
-      <div class="education-logo">
+      <div class="about-timeline-marker">
 
         <!-- College logo will go here -->
         <div class="institution-logo-placeholder">
@@ -263,22 +265,23 @@ author_profile: false
       </div>
 
 
-      <div class="education-content">
+      <div class="about-timeline-content">
 
-        <div class="education-year">
+        <div class="timeline-date">
           2014 — 2017
         </div>
 
         <h3>B.Sc. Chemistry</h3>
 
-        <p class="education-institution">
-          Hooghly Mohsin College<br>
-          The University of Burdwan
+        <p class="timeline-place">
+          Hooghly Mohsin College, The University of Burdwan
+          <span>·</span>
+          India
         </p>
 
-        <div class="education-detail">
+        <p>
           First Class
-        </div>
+        </p>
 
       </div>
 
