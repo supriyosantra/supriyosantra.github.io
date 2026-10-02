@@ -52,7 +52,7 @@ author_profile: false
 <section class="about-section">
 
   <div class="section-kicker">
-     ACADEMIC JOURNEY
+     RESEARCH EXPERIENCE
   </div>
 
   <div class="about-timeline">
