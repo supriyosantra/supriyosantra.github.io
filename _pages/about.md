@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 author_profile: false
 ---
+<div class="about-page">
 <!-- =========================================================
      HERO
      ========================================================= -->
@@ -23,7 +24,8 @@ author_profile: false
 
     <p class="about-affiliation">
       Indian Association for the Cultivation of Science
-      <span>·</span> Kolkata, India
+      <span>·</span>
+      Kolkata, India
     </p>
 
     <p class="about-intro">
@@ -39,11 +41,6 @@ author_profile: false
       <span>Quantum Chemistry</span>
     </div>
 
-  </div>
-
-
-  <div class="about-hero-photo">
-    <img src="/images/me.jpg" alt="Supriyo Santra">
   </div>
 
 </div>
@@ -530,4 +527,5 @@ author_profile: false
     <a href="/publications/">publications</a>.
   </p>
 
+</div>
 </div>
