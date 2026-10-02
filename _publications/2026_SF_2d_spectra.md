@@ -4,7 +4,7 @@ authors: "Sanjoy Patra, Atandrita Bhattacharyya, Ch Mudasar Hussain, Vijay P. Si
 venue: "The Journal of Chemical Physics"
 date: 2026-04-27
 paperurl: "https://doi.org/10.1063/5.0312776"
-thumbnail: "/images/SF_exciton_JCTC.png"
+thumbnail: "/images/jcp_2026.png"
 excerpt: "Combined experimental and computational endeavor for singlet fission in NDI dimers"
 collection: publications
 ---
