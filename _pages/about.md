@@ -4,47 +4,27 @@ title: "About"
 author_profile: false
 ---
 <div class="about-page">
-<!-- =========================================================
-     HERO
+INTRODUCTION
      ========================================================= -->
 
-<div class="about-hero">
+<div class="about-introduction">
 
-  <div class="about-hero-text">
-
-    <div class="about-eyebrow">
-      THEORETICAL &amp; COMPUTATIONAL CHEMIST
-    </div>
-
-    <h1>Supriyo Santra</h1>
-
-    <p class="about-role">
-      Research Associate
-    </p>
-
-    <p class="about-affiliation">
-      Indian Association for the Cultivation of Science
-      <span>·</span>
-      Kolkata, India
-    </p>
-
-    <p class="about-intro">
-      I am a theoretical chemist interested in understanding
-      excited-state phenomena in molecular systems using quantum
-      chemical methods.
-    </p>
-
-    <div class="about-tags">
-      <span>Excited States</span>
-      <span>Singlet Fission</span>
-      <span>Excitonic Interactions</span>
-      <span>Quantum Chemistry</span>
-    </div>
-
+  <div class="section-kicker">
+    ABOUT ME
   </div>
 
-</div>
+  <p>
+    My academic interests have revolved around understanding
+    <strong>excited-state phenomena</strong>, from their underlying
+    electronic structure to their evolution in complex molecular
+    environments. I am interested in both <strong>materials</strong>
+    and <strong>biologically relevant systems</strong>, with particular
+    interest in developing computational approaches to understand
+    <strong>molecular aggregates, excitonic interactions, and correlated
+    excited states</strong>.
+  </p>
 
+</div>
 <!-- =========================================================
      ACADEMIC JOURNEY
      ========================================================= -->
