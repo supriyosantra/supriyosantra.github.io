@@ -203,10 +203,6 @@ author_profile: false
         </p>
 
         <p>
-          First Class with Distinction
-        </p>
-
-        <p>
           <strong>Thesis:</strong>
           <em>
             The Jahn-Teller and pseudo-Jahn-Teller effect in lowest
@@ -249,10 +245,6 @@ author_profile: false
           Hooghly Mohsin College, The University of Burdwan
           <span>·</span>
           India
-        </p>
-
-        <p>
-          First Class
         </p>
 
       </div>
