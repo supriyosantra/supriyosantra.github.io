@@ -122,9 +122,9 @@ author_profile: false
       <div class="about-timeline-marker">
 
         <!-- Institute logo will go here -->
-        <div class="institution-logo-placeholder">
-          UoH
-        </div>
+        <img src="/images/institutions/uoh.jpg"
+          alt="University of Hyderabad"
+     class="institution-logo">
 
       </div>
 
@@ -181,9 +181,9 @@ author_profile: false
       <div class="about-timeline-marker">
 
         <!-- University logo will go here -->
-        <div class="institution-logo-placeholder">
-          UoH
-        </div>
+        <img src="/images/institutions/uoh.jpg"
+          alt="University of Hyderabad"
+     class="institution-logo">
 
       </div>
 
