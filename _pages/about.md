@@ -41,9 +41,9 @@ author_profile: false
       <div class="about-timeline-marker">
 
         <!-- Institute logo will go here -->
-        <div class="institution-logo-placeholder">
-          IACS
-        </div>
+        <img src="/images/institutions/iacs.png"
+     alt="Indian Association for the Cultivation of Science"
+     class="institution-logo">
 
       </div>
 
@@ -78,9 +78,9 @@ author_profile: false
       <div class="about-timeline-marker">
 
         <!-- Institute logo will go here -->
-        <div class="institution-logo-placeholder">
-          IACS
-        </div>
+        <img src="/images/institutions/iacs.png"
+     alt="Indian Association for the Cultivation of Science"
+     class="institution-logo">
 
       </div>
 
