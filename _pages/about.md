@@ -4,13 +4,9 @@ title: "About"
 author_profile: false
 ---
 <div class="about-page">
-INTRODUCTION
-     ========================================================= -->
-
 <div class="about-introduction">
 
   <div class="section-kicker">
-    ABOUT ME
   </div>
 
   <p>
