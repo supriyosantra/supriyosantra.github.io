@@ -45,47 +45,6 @@ author_profile: false
 
 </div>
 
-
-<!-- =========================================================
-     ABOUT
-     ========================================================= -->
-
-<section class="about-section">
-
-  <div class="section-kicker">
-    01 · ABOUT
-  </div>
-
-  <h2>Understanding excited states from the electronic structure up.</h2>
-
-  <div class="about-text">
-
-    <p>
-      My research focuses on how electronic structure and molecular
-      motion govern nonradiative relaxation pathways, excitonic
-      interactions, energy transfer, and correlated excited-state
-      processes.
-    </p>
-
-    <p>
-      A central theme of my work is the development of physically
-      transparent <strong>model Hamiltonians</strong> informed by
-      <em>ab initio</em> electronic structure calculations. These
-      approaches allow complex excited-state phenomena to be connected
-      to intuitive physical pictures and mechanistic descriptions.
-    </p>
-
-    <p>
-      My studies span organic chromophores, molecular aggregates,
-      and biologically relevant systems including phytochromes and
-      nucleic acid bases.
-    </p>
-
-  </div>
-
-</section>
-
-
 <!-- =========================================================
      ACADEMIC JOURNEY
      ========================================================= -->
