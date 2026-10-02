@@ -194,10 +194,8 @@ author_profile: false
 <section class="about-section">
 
   <div class="section-kicker">
-    03 · EDUCATION
+    EDUCATION
   </div>
-
-  <h2>The foundation behind the research.</h2>
 
   <div class="about-timeline">
 
