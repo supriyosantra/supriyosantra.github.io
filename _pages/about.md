@@ -230,9 +230,9 @@ author_profile: false
       <div class="about-timeline-marker">
 
         <!-- College logo will go here -->
-        <div class="institution-logo-placeholder">
-          HMC
-        </div>
+        <img src="/images/institutions/hmc.svg"
+     alt="hmc"
+     class="institution-logo">
 
       </div>
 
