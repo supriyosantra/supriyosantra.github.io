@@ -63,9 +63,7 @@ author_profile: false
         </p>
 
         <p>
-          Research in theoretical and computational chemistry with a
-          focus on excited-state electronic structure and molecular
-          photophysics.
+          Excitonic models for excited states of aggregates and ML dynamics for long time scale dynamics, Quantum Computing
         </p>
 
       </div>
@@ -146,7 +144,7 @@ author_profile: false
         </p>
 
         <p>
-          Project on non-adiabatic dynamics on the lowest three
+          Non-adiabatic dynamics on the lowest three
           excited states of the ethane radical cation.
         </p>
 
