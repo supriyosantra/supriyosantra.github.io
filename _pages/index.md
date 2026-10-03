@@ -40,19 +40,34 @@ author_profile: false
 </div>
 
 
-## Research
+<section class="home-section home-research">
 
-I am a theoretical chemist interested in understanding **excited-state
-phenomena**, from their underlying electronic structure to their evolution
-in complex molecular environments. My work spans **organic and molecular
-materials as well as biologically relevant systems**, with particular
-interest in computational approaches for **molecular aggregates,
-excitonic interactions, and correlated excited states**.
+  <div class="section-kicker">
+    RESEARCH
+  </div>
 
-<a href="/research/" class="home-section-link">
-Explore my research →
-</a>
+  <h2>Understanding excited states across molecules and materials.</h2>
 
+  <p>
+    I am a theoretical chemist interested in understanding how
+    <strong>electronic structure and molecular motion</strong> govern
+    excited-state phenomena in complex molecular systems.
+  </p>
+
+  <p>
+    My work combines <strong>ab initio electronic structure methods</strong>
+    with physically transparent model Hamiltonians to investigate
+    <strong>excited-state dynamics, excitonic interactions, energy transfer,
+    and correlated excited states</strong>.
+  </p>
+
+  <p>
+    These studies span organic chromophores, molecular aggregates, and
+    biologically relevant systems, with particular interest in understanding
+    how molecular interactions give rise to emergent excited-state behaviour.
+  </p>
+
+</section>
 
 ## Recent Updates
 
