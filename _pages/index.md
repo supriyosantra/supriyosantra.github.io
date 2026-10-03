@@ -46,26 +46,14 @@ author_profile: false
     RESEARCH
   </div>
 
-  <h2>Understanding excited states across molecules and materials.</h2>
+  <h2>
+    Understanding excited-state dynamics across scales —
+    from loosely bound electrons to molecular aggregates.
+  </h2>
 
-  <p>
-    I am a theoretical chemist interested in understanding how
-    <strong>electronic structure and molecular motion</strong> govern
-    excited-state phenomena in complex molecular systems.
-  </p>
-
-  <p>
-    My work combines <strong>ab initio electronic structure methods</strong>
-    with physically transparent model Hamiltonians to investigate
-    <strong>excited-state dynamics, excitonic interactions, energy transfer,
-    and correlated excited states</strong>.
-  </p>
-
-  <p>
-    These studies span organic chromophores, molecular aggregates, and
-    biologically relevant systems, with particular interest in understanding
-    how molecular interactions give rise to emergent excited-state behaviour.
-  </p>
+  <a href="/research/" class="home-section-link">
+    Explore my research →
+  </a>
 
 </section>
 
