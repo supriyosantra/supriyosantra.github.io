@@ -987,3 +987,95 @@ font-size:1.45rem;
   }
 
 }
+.home-hero{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:60px;
+  margin:35px 0 65px;
+  padding:0 10px;
+}
+
+.home-hero-content{
+  max-width:720px;
+}
+
+.home-eyebrow{
+  margin-bottom:14px;
+  font-size:0.72rem;
+  font-weight:700;
+  letter-spacing:1.8px;
+  color:#3F6F63;
+}
+
+.home-hero h1{
+  margin:0 0 8px;
+  font-size:2.45rem;
+  font-weight:600;
+  line-height:1.15;
+  color:#263638;
+}
+
+.home-role{
+  margin:0 0 3px;
+  font-size:1.12rem;
+  font-weight:500;
+  color:#4d5959;
+}
+
+.home-affiliation{
+  margin:0;
+  font-size:0.95rem;
+  color:#707878;
+}
+
+.home-affiliation span{
+  padding:0 6px;
+  color:#3F6F63;
+}
+
+.home-links{
+  display:flex;
+  gap:22px;
+  margin-top:24px;
+}
+
+.home-links a{
+  font-size:0.82rem;
+  font-weight:600;
+  color:#3F6F63;
+  text-decoration:none;
+  border-bottom:none;
+}
+
+.home-links a:hover{
+  color:#2E544A;
+}
+
+.home-photo img{
+  width:175px;
+  height:175px;
+  object-fit:cover;
+  border-radius:50%;
+  display:block;
+}
+
+@media (max-width:700px){
+
+  .home-hero{
+    flex-direction:column-reverse;
+    align-items:flex-start;
+    gap:25px;
+    margin-top:25px;
+  }
+
+  .home-photo img{
+    width:135px;
+    height:135px;
+  }
+
+  .home-hero h1{
+    font-size:2rem;
+  }
+
+}
