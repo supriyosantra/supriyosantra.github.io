@@ -53,7 +53,7 @@ author_profile: false
   <a href="/research/" class="home-section-link">
     Explore my research →
   </a>
-
+</section>
 <section class="home-section home-updates">
 
   <div class="section-kicker">
