@@ -43,7 +43,6 @@ author_profile: false
 <section class="home-section home-research">
 
   <div class="section-kicker">
-    RESEARCH
   </div>
 
   <h2>
