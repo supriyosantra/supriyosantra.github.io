@@ -4,44 +4,38 @@ title: ""
 author_profile: false
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; margin-top: 40px; flex-wrap: wrap;">
+<div class="home-hero">
 
-<!-- LEFT -->
-<div style="flex: 1; min-width: 250px;">
+  <div class="home-hero-content">
 
-<h1 style="margin-bottom: 5px;">Supriyo Santra</h1>
+    <div class="home-eyebrow">
+      THEORETICAL &amp; COMPUTATIONAL CHEMISTRY
+    </div>
 
-<p class="title-line">
-Research Associate<br>
-Indian Association for the Cultivation of Science (IACS), Kolkata
-</p>
+    <h1>Supriyo Santra</h1>
 
-<div class="icon-row">
+    <p class="home-role">
+      Research Associate
+    </p>
 
-<a href="/cv/" target="_blank">
-CV
-</a>
+    <p class="home-affiliation">
+      Indian Association for the Cultivation of Science
+      <span>·</span>
+      Kolkata, India
+    </p>
 
-<a href="mailto:supriyosantra2013@gmail.com">
-Email
-</a>
+    <div class="home-links">
+      <a href="/cv/" target="_blank">CV</a>
+      <a href="mailto:supriyosantra2013@gmail.com">Email</a>
+      <a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en" target="_blank">Scholar</a>
+      <a href="https://orcid.org/0000-0003-4884-2250" target="_blank">ORCID</a>
+    </div>
 
-<a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en" target="_blank">
-Scholar
-</a>
+  </div>
 
-<a href="https://orcid.org/0000-0003-4884-2250" target="_blank">
-ORCID
-</a>
-
-</div>
-
-</div>
-
-<!-- RIGHT -->
-<div>
-<img src="/images/me.jpg" style="width:180px; border-radius:60%;">
-</div>
+  <div class="home-photo">
+    <img src="/images/me.jpg" alt="Supriyo Santra">
+  </div>
 
 </div>
 
