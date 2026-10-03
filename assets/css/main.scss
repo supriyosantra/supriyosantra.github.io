@@ -1079,3 +1079,39 @@ font-size:1.45rem;
   }
 
 }
+.home-section{
+  margin:0 0 65px;
+}
+
+.home-research{
+  max-width:900px;
+  padding:0 10px;
+}
+
+.home-section .section-kicker{
+  margin-bottom:10px;
+  font-size:0.72rem;
+  font-weight:700;
+  letter-spacing:1.8px;
+  color:#3F6F63;
+}
+
+.home-research h2{
+  max-width:850px;
+  margin:0 0 22px;
+  font-size:1.65rem;
+  font-weight:600;
+  line-height:1.35;
+  color:#2f3e40;
+}
+
+.home-research p{
+  margin:0 0 14px;
+  font-size:1rem;
+  line-height:1.75;
+  color:#596363;
+}
+
+.home-research p:last-child{
+  margin-bottom:0;
+}
