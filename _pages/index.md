@@ -2,9 +2,6 @@
 permalink: /
 title: ""
 author_profile: false
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; margin-top: 40px; flex-wrap: wrap;">
