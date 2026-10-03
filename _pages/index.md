@@ -2,7 +2,11 @@
 permalink: /
 title: ""
 author_profile: false
+redirect_from:
+  - /about/
+  - /about.html
 ---
+
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; margin-top: 40px; flex-wrap: wrap;">
 
 <!-- LEFT -->
@@ -18,38 +22,138 @@ Indian Association for the Cultivation of Science (IACS), Kolkata
 <div class="icon-row">
 
 <a href="/cv/" target="_blank">
-<i class="fas fa-file-alt"></i>
-<span>CV</span>
+CV
 </a>
 
 <a href="mailto:supriyosantra2013@gmail.com">
-<i class="fas fa-envelope"></i>
-<span>Email</span>
+Email
 </a>
 
 <a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en" target="_blank">
-<i class="fas fa-graduation-cap"></i>
-<span>Scholar</span>
+Scholar
 </a>
 
 <a href="https://orcid.org/0000-0003-4884-2250" target="_blank">
-<i class="fab fa-orcid"></i>
-<span>ORCID</span>
+ORCID
 </a>
 
 </div>
+
 </div>
-<!-- RIGHT (YOUR PHOTO) -->
+
+<!-- RIGHT -->
 <div>
-<img src="/images/me.jpg" style="width:180px; border-radius: 60%;">
+<img src="/images/me.jpg" style="width:180px; border-radius:60%;">
 </div>
 
 </div>
 
-I am a theoretical chemist interested in understanding excited-state dynamics in molecular systems using quantum chemical methods. I investigate how electronic structure and molecular motion govern nonradiative relaxation pathways, excitonic interactions, and energy-transfer processes.
 
-A central theme of my work is the development of physically transparent **model Hamiltonians** informed by **ab initio electronic structure calculations**, enabling mechanistic insight into correlated excited states such as triplet-pair formation in singlet fission in aggregates.
+## Research
 
-These studies span organic chromophores, molecular aggregates, and biologically relevant systems including phytochromes and nucleic acid bases.
+I am a theoretical chemist interested in understanding **excited-state
+phenomena**, from their underlying electronic structure to their evolution
+in complex molecular environments. My work spans **organic and molecular
+materials as well as biologically relevant systems**, with particular
+interest in computational approaches for **molecular aggregates,
+excitonic interactions, and correlated excited states**.
+
+<a href="/research/" class="home-section-link">
+Explore my research →
+</a>
 
 
+## Recent Updates
+
+<div class="updates-list">
+
+<div class="update-item">
+
+<div class="update-year">2026</div>
+
+<div class="update-content">
+
+<strong>Paper accepted</strong>
+
+<p>
+<em>Excitonic Hamiltonian for Singlet Fission — Beyond a Dimer Model</em>
+accepted for publication in the
+<em>Journal of Chemical Theory and Computation</em>.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="update-item">
+
+<div class="update-year">2026</div>
+
+<div class="update-content">
+
+<strong>New publication</strong>
+
+<p>
+<em>Delineating the Roaming and Non-Roaming Pathways for the NO Release
+in o-Nitrofuran and o-Nitrothiophene</em> published in
+<em>Chemical Communications</em>.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="update-item">
+
+<div class="update-year">2025</div>
+
+<div class="update-content">
+
+<strong>Ph.D. completed</strong>
+
+<p>
+Completed my Ph.D. in Chemistry at the Indian Association for the
+Cultivation of Science. My thesis focused on
+<em>Excited State Phenomena and Multichromophore Interactions</em>.
+</p>
+
+</div>
+
+</div>
+
+
+<div class="update-item">
+
+<div class="update-year">2025</div>
+
+<div class="update-content">
+
+<strong>Best Student Talk Award</strong>
+
+<p>
+Received the Best Student Talk Award at InAdvanCS 2025.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+## Selected Publications
+
+<!-- KEEP YOUR EXISTING PUBLICATION CARDS BELOW THIS LINE -->
+
+<!-- Your existing three publication cards go here -->
+
+
+<div class="publication-more">
+
+<a href="/publications/">
+View all publications →
+</a>
+
+</div>
