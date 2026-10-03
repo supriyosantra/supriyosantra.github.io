@@ -1165,3 +1165,65 @@ font-size:1.45rem;
   }
 
 }
+.home-updates{
+  max-width:950px;
+  margin:0 10px 60px;
+}
+
+.update-list{
+  margin-top:20px;
+  border-top:1px solid #e5ebe8;
+}
+
+.update-item{
+  display:grid;
+  grid-template-columns:75px 1fr;
+  gap:20px;
+
+  padding:18px 0;
+
+  border-bottom:1px solid #e5ebe8;
+}
+
+.update-year{
+  font-size:0.78rem;
+  font-weight:600;
+  color:#3F6F63;
+  padding-top:2px;
+}
+
+.update-label{
+  margin-bottom:3px;
+  font-size:0.72rem;
+  font-weight:600;
+  letter-spacing:0.5px;
+  text-transform:uppercase;
+  color:#8a9392;
+}
+
+.update-title{
+  font-size:0.95rem;
+  line-height:1.45;
+  color:#394647;
+}
+
+.update-meta{
+  margin-top:3px;
+  font-size:0.80rem;
+  color:#7a8382;
+  font-style:italic;
+}
+
+@media (max-width:600px){
+
+  .home-updates{
+    margin-left:5px;
+    margin-right:5px;
+  }
+
+  .update-item{
+    grid-template-columns:55px 1fr;
+    gap:12px;
+  }
+
+}
