@@ -54,87 +54,66 @@ author_profile: false
     Explore my research →
   </a>
 
+<section class="home-section home-updates">
+
+  <div class="section-kicker">
+    RECENT UPDATES
+  </div>
+
+  <div class="update-list">
+
+    <div class="update-item">
+      <div class="update-year">2026</div>
+      <div class="update-content">
+        <div class="update-label">Paper accepted</div>
+        <div class="update-title">
+          Excitonic Hamiltonian for Singlet Fission — Beyond a Dimer Model
+        </div>
+        <div class="update-meta">
+          Journal of Chemical Theory and Computation
+        </div>
+      </div>
+    </div>
+
+    <div class="update-item">
+      <div class="update-year">2026</div>
+      <div class="update-content">
+        <div class="update-label">New publication</div>
+        <div class="update-title">
+          Delineating the Roaming and Non-Roaming Pathways for the NO Release
+        </div>
+        <div class="update-meta">
+          Chemical Communications
+        </div>
+      </div>
+    </div>
+
+    <div class="update-item">
+      <div class="update-year">2025</div>
+      <div class="update-content">
+        <div class="update-label">Ph.D. completed</div>
+        <div class="update-title">
+          Excited State Phenomena and Multichromophore Interactions
+        </div>
+        <div class="update-meta">
+          Indian Association for the Cultivation of Science
+        </div>
+      </div>
+    </div>
+
+    <div class="update-item">
+      <div class="update-year">2025</div>
+      <div class="update-content">
+        <div class="update-label">Award</div>
+        <div class="update-title">
+          Best Student Talk Award
+        </div>
+      </div>
+    </div>
+
+  </div>
+
 </section>
-
-## Recent Updates
-
-<div class="updates-list">
-
-<div class="update-item">
-
-<div class="update-year">2026</div>
-
-<div class="update-content">
-
-<strong>Paper accepted</strong>
-
-<p>
-<em>Excitonic Hamiltonian for Singlet Fission — Beyond a Dimer Model</em>
-accepted for publication in the
-<em>Journal of Chemical Theory and Computation</em>.
-</p>
-
-</div>
-
-</div>
-
-
-<div class="update-item">
-
-<div class="update-year">2026</div>
-
-<div class="update-content">
-
-<strong>New publication</strong>
-
-<p>
-<em>Delineating the Roaming and Non-Roaming Pathways for the NO Release
-in o-Nitrofuran and o-Nitrothiophene</em> published in
-<em>Chemical Communications</em>.
-</p>
-
-</div>
-
-</div>
-
-
-<div class="update-item">
-
-<div class="update-year">2025</div>
-
-<div class="update-content">
-
-<strong>Ph.D. completed</strong>
-
-<p>
-Completed my Ph.D. in Chemistry at the Indian Association for the
-Cultivation of Science. My thesis focused on
-<em>Excited State Phenomena and Multichromophore Interactions</em>.
-</p>
-
-</div>
-
-</div>
-
-
-<div class="update-item">
-
-<div class="update-year">2025</div>
-
-<div class="update-content">
-
-<strong>Best Student Talk Award</strong>
-
-<p>
-Received the Best Student Talk Award at InAdvanCS 2025.
-</p>
-
-</div>
-
-</div>
-
-</div>
-
 
 ## Selected Publications
 
