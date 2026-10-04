@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 author_profile: false
+classes: wide
 ---
 <div class="about-page">
 <div class="about-introduction">
