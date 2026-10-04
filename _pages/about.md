@@ -10,14 +10,6 @@ author_profile: false
   </div>
 
   <p>
-    My academic interests have revolved around understanding
-    <strong>excited-state phenomena</strong>, from their underlying
-    electronic structure to their evolution in complex molecular
-    environments. I am interested in both <strong>materials</strong>
-    and <strong>biologically relevant systems</strong>, with particular
-    interest in developing computational approaches to understand
-    <strong>molecular aggregates, excitonic interactions, and correlated
-    excited states</strong>.
   </p>
 
 </div>
