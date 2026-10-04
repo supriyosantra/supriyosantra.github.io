@@ -1122,12 +1122,3 @@ h3{
   width: 100% !important;
   max-width: none !important;
 }
-/* Widen Home to match the site content width */
-
-.layout--single.home .page__inner-wrap{
-  max-width: 1500px !important;
-}
-
-.layout--single.home .page__content{
-  max-width: 1500px !important;
-}
