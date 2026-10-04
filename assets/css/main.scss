@@ -1,15 +1,9 @@
----
-# Only the main Sass file needs front matter
----
-
-@import "minimal-mistakes";
-
 /* =========================================================
    GLOBAL LAYOUT & TYPOGRAPHY
    ========================================================= */
 
 :root{
-  --site-content-width: 2100px;
+  --site-content-width: 1500px;
   --accent: #3F6F63;
   --accent-dark: #2E544A;
   --text: #394647;
@@ -24,6 +18,8 @@
 .archive{
   width: 100% !important;
   max-width: var(--site-content-width) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 body{
