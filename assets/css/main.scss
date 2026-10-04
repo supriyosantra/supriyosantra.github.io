@@ -20,10 +20,17 @@
 }
 
 #main,
+#.page,
+#.archive{
+#  width: 100% !important;
+#  max-width: var(--site-content-width) !important;
+#}
+#main,
 .page,
 .archive{
-  width: 100% !important;
-  max-width: var(--site-content-width) !important;
+  max-width: 1500px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 body{
