@@ -1092,3 +1092,17 @@ h3{
     padding: 20px;
   }
 }
+.layout--single.home .page{
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.layout--single.home .page__inner-wrap{
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.layout--single.home .page__content{
+  width: 100% !important;
+  max-width: none !important;
+}
