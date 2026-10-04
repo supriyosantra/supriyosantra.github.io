@@ -1,9 +1,15 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
 /* =========================================================
    GLOBAL LAYOUT & TYPOGRAPHY
    ========================================================= */
 
 :root{
-  --site-content-width: 1500px;
+  --site-content-width: 2100px;
   --accent: #3F6F63;
   --accent-dark: #2E544A;
   --text: #394647;
@@ -13,15 +19,10 @@
   --surface: #F7FAF8;
 }
 
-#main{
-  max-width: var(--site-content-width) !important;
-}
-
-.page{
-  max-width: var(--site-content-width) !important;
-}
-
+#main,
+.page,
 .archive{
+  width: 100% !important;
   max-width: var(--site-content-width) !important;
 }
 
@@ -83,6 +84,23 @@ h3{
   line-height: 1.35;
   font-size: 1.15rem;
   color: #555;
+}
+
+
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
+
+.sidebar{
+  position: sticky;
+  top: 40px;
+  width: 240px;
+  padding-top: 40px;
+}
+
+.author__avatar img{
+  max-width: 150px;
+  margin-right: 0;
 }
 
 
