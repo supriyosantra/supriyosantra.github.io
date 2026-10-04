@@ -13,13 +13,16 @@
   --surface: #F7FAF8;
 }
 
-#main,
-.page,
-.archive{
-  width: 100% !important;
+#main{
   max-width: var(--site-content-width) !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+}
+
+.page{
+  max-width: var(--site-content-width) !important;
+}
+
+.archive{
+  max-width: var(--site-content-width) !important;
 }
 
 body{
