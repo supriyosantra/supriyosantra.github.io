@@ -22,6 +22,7 @@
 #main,
 .page,
 .archive{
+  width: 100% !important;
   max-width: var(--site-content-width) !important;
 }
 
@@ -557,8 +558,9 @@ h3{
    ========================================================= */
 
 .about-page{
-  max-width: 1050px;
-  margin: 0 auto;
+  width: 100%;
+  max-width: none;
+  margin: 0;
   padding: 20px 10px 60px;
 }
 
@@ -1092,17 +1094,14 @@ h3{
     padding: 20px;
   }
 }
-.layout--single.home .page{
-  width: 100% !important;
-  max-width: none !important;
-}
 
-.layout--single.home .page__inner-wrap{
-  width: 100% !important;
-  max-width: none !important;
-}
+/* =========================================================
+   GLOBAL SINGLE-PAGE WIDTH
+   ========================================================= */
 
-.layout--single.home .page__content{
+.layout--single .page,
+.layout--single .page__inner-wrap,
+.layout--single .page__content{
   width: 100% !important;
   max-width: none !important;
 }
