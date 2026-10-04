@@ -541,6 +541,15 @@ h3{
 .layout--single.home .page__content li{
   font-size: 1rem;
 }
+.layout--single.home .page__content{
+  max-width: none !important;
+  width: 100% !important;
+}
+
+.layout--single.home .page__inner-wrap{
+  max-width: none !important;
+  width: 100% !important;
+}
 
 
 /* =========================================================
