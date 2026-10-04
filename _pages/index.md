@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: false
+classes: wide
 ---
 
 <div class="home-hero">
