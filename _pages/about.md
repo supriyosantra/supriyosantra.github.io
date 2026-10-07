@@ -258,6 +258,7 @@ classes: wide
   <div class="section-kicker">
      SELECTED AWARDS AND FELLOWSHIPS
   </div>
+  
   <div class="recognition-grid">
 
 
