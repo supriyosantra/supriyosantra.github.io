@@ -10,10 +10,9 @@ classes: wide
   <div class="home-hero-content">
 
     <div class="home-eyebrow">
-      THEORETICAL &amp; COMPUTATIONAL CHEMISTRY
     </div>
 
-    <h1>Supriyo Santra</h1>
+    <h2>Supriyo Santra</h2>
 
     <p class="home-role">
       Research Associate
