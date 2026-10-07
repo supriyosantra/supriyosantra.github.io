@@ -256,11 +256,8 @@ classes: wide
 <section class="about-section">
 
   <div class="section-kicker">
-    05 · RECOGNITION
+     SELECTED AWARDS AND FELLOWSHIPS
   </div>
-
-  <h2>Selected awards &amp; fellowships.</h2>
-
   <div class="recognition-grid">
 
 
