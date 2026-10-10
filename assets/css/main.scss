@@ -185,7 +185,10 @@ h3{
 .pub-card:hover::before{
   transform:scaleY(1);
 }
-
+.pub-thumb,
+.pub-thumb img{
+  display:none !important;
+}
 
 /* ---------------------------------------------------------
    CONTENT
