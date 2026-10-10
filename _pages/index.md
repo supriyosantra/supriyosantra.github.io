@@ -113,19 +113,28 @@ classes: wide
 
   </div>
 
+<section class="home-contact">
+
+  <div class="section-kicker">
+    GET IN TOUCH
+  </div>
+
+  <h2>
+    Interested in research, collaboration, or just exchanging ideas?
+  </h2>
+
+  <div class="contact-links">
+
+    <a href="mailto:supriyosantra2013@gmail.com">
+      <span class="contact-icon">✉</span>
+      supriyosantra2013@gmail.com
+    </a>
+
+    <a href="/cv/" target="_blank">
+      <span class="contact-icon">↗</span>
+      Curriculum Vitae
+    </a>
+
+  </div>
+
 </section>
-
-## Selected Publications
-
-<!-- KEEP YOUR EXISTING PUBLICATION CARDS BELOW THIS LINE -->
-
-<!-- Your existing three publication cards go here -->
-
-
-<div class="publication-more">
-
-<a href="/publications/">
-View all publications →
-</a>
-
-</div>
