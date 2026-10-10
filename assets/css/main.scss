@@ -169,16 +169,8 @@ h3{
 }
 
 .pub-thumb{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: none;
 }
-
-#.pub-thumb img{
-#  width: 180px;
-#  border-radius: 8px;
-#  display: block;
-#}
 
 .pub-content{
   flex: 1;
