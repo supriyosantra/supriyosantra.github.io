@@ -5,15 +5,16 @@ author_profile: false
 classes: wide
 ---
 
-
-I investigate how electronic structure governs excited-state dynamics in molecular systems, with emphasis on singlet fission, excitonic interactions, and energy transfer.
-
----
-
 <div class="research-page">
 
   <div class="research-intro">
+    <p>
+      I investigate how electronic structure governs excited-state dynamics
+      in molecular systems, with emphasis on singlet fission, excitonic
+      interactions, and energy transfer.
+    </p>
   </div>
+
 
   <div class="research-grid">
 
@@ -26,7 +27,9 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
       <div class="research-info">
         <div class="research-number">01</div>
+
         <h2>Singlet Fission</h2>
+
         <p>
           Electronic and vibronic mechanisms underlying singlet-fission
           processes and the formation of correlated triplet pairs.
@@ -45,7 +48,9 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
       <div class="research-info">
         <div class="research-number">02</div>
+
         <h2>Excited-State Electronic Structure</h2>
+
         <p>
           Multireference descriptions of electronically excited states
           and their dependence on molecular geometry.
@@ -64,7 +69,9 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
       <div class="research-info">
         <div class="research-number">03</div>
+
         <h2>Vibronic Dynamics</h2>
+
         <p>
           Coupling between electronic and nuclear degrees of freedom
           and their role in excited-state processes.
@@ -83,7 +90,9 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
       <div class="research-info">
         <div class="research-number">04</div>
+
         <h2>Excitonic &amp; Many-Body Models</h2>
+
         <p>
           Connecting molecular electronic structure to exciton dynamics
           and larger molecular aggregates.
@@ -95,3 +104,5 @@ I investigate how electronic structure governs excited-state dynamics in molecul
   </div>
 
 </div>
+
+
