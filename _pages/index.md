@@ -40,20 +40,6 @@ classes: wide
 
 </div>
 
-
-<section class="home-section home-research">
-
-  <div class="section-kicker">
-  </div>
-
-  <h2>
-    Understanding excited-state dynamics across scales —
-    from loosely bound electrons to molecular aggregates.
-  </h2>
-
-  <a href="/research/" class="home-section-link">
-    Explore my research →
-  </a>
 </section>
 <section class="home-section home-updates">
 
