@@ -4,7 +4,14 @@ permalink: /research/
 author_profile: false
 classes: wide
 ---
+<div class="research-intro-box">
 
+  <p>
+    Understanding excited-state dynamics across scales —
+    from loosely bound electrons to molecular aggregates.
+  </p>
+
+</div>
 <div class="research-grid">
 
   <div class="research-card">
