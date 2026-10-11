@@ -7,7 +7,10 @@ classes: wide
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
@@ -15,12 +18,6 @@ classes: wide
 {% for post in site.publications reversed %}
 
 <div class="pub-card">
-
-  {% if post.thumbnail %}
-  <div class="pub-thumb">
-    <img src="{{ post.thumbnail }}">
-  </div>
-  {% endif %}
 
   <div class="pub-content">
 
@@ -36,12 +33,8 @@ classes: wide
       <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}
     </div>
 
-    <p class="pub-summary">
-      {{ post.excerpt }}
-    </p>
-
     {% if post.paperurl %}
-    <a class="pub-button" href="{{ post.paperurl }}">DOI</a>
+      <a class="pub-button" href="{{ post.paperurl }}">DOI</a>
     {% endif %}
 
   </div>
