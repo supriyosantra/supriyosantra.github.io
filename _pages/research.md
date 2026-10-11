@@ -10,38 +10,97 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 
 ---
 
-<div class="research-list">
+<div class="research-page">
 
-  <a href="/research/singlet-fission/" class="research-item">
-    <img src="/images/sf.png" alt="">
-    <div class="research-text">
-      <h3>Singlet Fission</h3>
-      <p>Mechanistic insights into excimer-mediated processes, vibronic effects, and correlated triplet-pair formation.</p>
-    </div>
-  </a>
+  <div class="research-intro">
+    <p>
+      I investigate how electronic structure governs excited-state dynamics
+      in molecular systems, with emphasis on singlet fission, excitonic
+      interactions, and energy transfer.
+    </p>
+  </div>
 
-  <a href="/research/excited-state/" class="research-item">
-    <img src="/images/excited.png" alt="">
-    <div class="research-text">
-      <h3>Excited-State Electronic Structure</h3>
-      <p>How electronic structure and molecular geometry govern photophysics in organic and biological chromophores.</p>
-    </div>
-  </a>
+  <div class="research-heading">
+    <span>RESEARCH AREAS</span>
+  </div>
 
-  <a href="/research/vibronic/" class="research-item">
-    <img src="/images/vibronic.png" alt="">
-    <div class="research-text">
-      <h3>Vibronic Dynamics</h3>
-      <p>Role of vibrational coupling, nonradiative decay, and energy redistribution in excited-state processes.</p>
-    </div>
-  </a>
+  <div class="research-grid">
 
-  <a href="/research/models/" class="research-item">
-    <img src="/images/models.png" alt="">
-    <div class="research-text">
-      <h3>Theoretical Models</h3>
-      <p>Minimal and physically insightful models for complex excited-state interactions.</p>
+    <div class="research-card">
+
+      <div class="research-image">
+        <img src="/images/research/singlet-fission.png"
+             alt="Singlet fission">
+      </div>
+
+      <div class="research-info">
+        <div class="research-number">01</div>
+        <h2>Singlet Fission</h2>
+        <p>
+          Electronic and vibronic mechanisms underlying singlet-fission
+          processes and the formation of correlated triplet pairs.
+        </p>
+      </div>
+
     </div>
-  </a>
+
+
+    <div class="research-card">
+
+      <div class="research-image">
+        <img src="/images/research/electronic-structure.png"
+             alt="Excited-state electronic structure">
+      </div>
+
+      <div class="research-info">
+        <div class="research-number">02</div>
+        <h2>Excited-State Electronic Structure</h2>
+        <p>
+          Multireference descriptions of electronically excited states
+          and their dependence on molecular geometry.
+        </p>
+      </div>
+
+    </div>
+
+
+    <div class="research-card">
+
+      <div class="research-image">
+        <img src="/images/research/vibronic-dynamics.png"
+             alt="Vibronic dynamics">
+      </div>
+
+      <div class="research-info">
+        <div class="research-number">03</div>
+        <h2>Vibronic Dynamics</h2>
+        <p>
+          Coupling between electronic and nuclear degrees of freedom
+          and their role in excited-state processes.
+        </p>
+      </div>
+
+    </div>
+
+
+    <div class="research-card">
+
+      <div class="research-image">
+        <img src="/images/research/excitonic-models.png"
+             alt="Excitonic and many-body models">
+      </div>
+
+      <div class="research-info">
+        <div class="research-number">04</div>
+        <h2>Excitonic &amp; Many-Body Models</h2>
+        <p>
+          Connecting molecular electronic structure to exciton dynamics
+          and larger molecular aggregates.
+        </p>
+      </div>
+
+    </div>
+
+  </div>
 
 </div>
