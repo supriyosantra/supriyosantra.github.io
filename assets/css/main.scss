@@ -752,23 +752,18 @@ h3{
 /* Home general paragraph/list sizing */
 
 .layout--single.home .page__content p{
-  font-size: 1rem;
-  line-height: 1.7;
+  font-size:1rem;
+  line-height:1.7;
 }
 
 .layout--single.home .page__content li{
-  font-size: 1rem;
-}
-.layout--single.home .page__content{
-  max-width: none !important;
-  width: 100% !important;
+  font-size:1rem;
 }
 
-.layout--single.home .page__inner-wrap{
-  max-width: none !important;
-  width: 100% !important;
+.layout--home .page__content{
+  width:100% !important;
+  max-width:none !important;
 }
-
 
 /* =========================================================
    ABOUT PAGE
@@ -1358,18 +1353,7 @@ h3{
     padding: 20px;
   }
 }
-
-/* =========================================================
-   GLOBAL SINGLE-PAGE WIDTH
-   ========================================================= */
-
-.layout--single .page,
-.layout--single .page__inner-wrap,
-.layout--single .page__content{
-  width: 100% !important;
-  max-width: none !important;
-}
-.layout--single.home .page{
-  width: 100% !important;
-  max-width: 1200px !important;
+.layout--home .page__content{
+  width:100% !important;
+  max-width:none !important;
 }
