@@ -112,7 +112,7 @@ classes: wide
     </div>
 
   </div>
-
+</section>
 <section class="home-contact">
 
   <div class="section-kicker">
