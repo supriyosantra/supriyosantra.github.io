@@ -31,6 +31,9 @@ classes: wide
 
   <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.5c00060"
      target="_blank" rel="noopener noreferrer">JPCA 2025</a>
+
+  <a href="https://doi.org/10.1021/acs.jpclett.2c02000"
+     target="_blank" rel="noopener noreferrer">JPCL 2022</a>
 </div>
     </div>
 
@@ -52,6 +55,19 @@ classes: wide
       <p>
         How electronic-state crossings and molecular motion govern photochemical reactions and nonradiative pathways.
       </p>
+
+      <div class="research-papers">
+  <span>Selected papers:</span>
+
+  <a href="https://doi.org/10.1039/d4cc06477a"
+     target="_blank" rel="noopener noreferrer">ChemComm 2026</a>
+
+  <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.5c00060"
+     target="_blank" rel="noopener noreferrer">JPCA 2025</a>
+
+  <a href="https://doi.org/10.1021/acs.jpca.4c03948"
+     target="_blank" rel="noopener noreferrer">JPCA 2024</a>
+</div>
     </div>
 
   </div>
