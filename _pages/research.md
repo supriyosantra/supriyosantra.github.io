@@ -20,8 +20,7 @@ classes: wide
         <h2>Singlet Fission</h2>
 
         <p>
-          Electronic and vibronic mechanisms underlying singlet-fission
-          processes and the formation of correlated triplet pairs.
+          Electronic mechanisms of multiexciton formation and triplet-pair generation.
         </p>
       </div>
 
@@ -32,7 +31,7 @@ classes: wide
 
       <div class="research-image">
         <img src="/images/research/electronic-structure.png"
-             alt="Excited-state electronic structure">
+             alt="Excited-State Electronic Structure of Molecular Systems">
       </div>
 
       <div class="research-info">
@@ -53,7 +52,7 @@ classes: wide
 
       <div class="research-image">
         <img src="/images/research/vibronic-dynamics.png"
-             alt="Vibronic dynamics">
+             alt="Excitonic Hamiltonians and Molecular Aggregates">
       </div>
 
       <div class="research-info">
@@ -74,7 +73,7 @@ classes: wide
 
       <div class="research-image">
         <img src="/images/research/excitonic-models.png"
-             alt="Excitonic and many-body models">
+             alt="Excited-State Photochemistry and Reaction Mechanisms">
       </div>
 
       <div class="research-info">
