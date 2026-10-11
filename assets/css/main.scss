@@ -1362,3 +1362,20 @@ h3{
   width:100% !important;
   max-width:2100px !important;
 }
+/* TEST: widen home-new */
+.layout--single .page {
+  width: 100% !important;
+  max-width: 2100px !important;
+  float: none !important;
+  padding-right: 0 !important;
+}
+
+.layout--single .page__inner-wrap {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.layout--single .page__content {
+  width: 100% !important;
+  max-width: none !important;
+}
