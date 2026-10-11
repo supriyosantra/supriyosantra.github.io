@@ -1425,23 +1425,32 @@ h3{
 }
 .research-papers {
   margin-top: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
   font-size: 0.78rem;
   color: #858e8b;
 }
 
 .research-papers span {
-  margin-right: 8px;
+  margin-right: 3px;
 }
 
 .research-papers a {
   display: inline-block;
-  margin-right: 10px;
+  padding: 5px 11px;
+  border: 1px solid #dce6e2;
+  border-radius: 20px;
+  background: #f7faf8;
   color: #376b67;
   font-weight: 600;
   text-decoration: none;
+  transition: all 0.18s ease;
 }
 
 .research-papers a:hover {
+  background: #eef5f2;
+  border-color: #376b67;
   color: #244c49;
-  text-decoration: underline;
 }
