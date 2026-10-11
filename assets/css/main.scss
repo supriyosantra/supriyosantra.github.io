@@ -411,13 +411,11 @@ h3{
     box-shadow 0.18s ease;
 }
 
-.research-card:hover{
-  transform:translateY(-2px);
-  border-color:#d9e4df;
-
-  box-shadow:
-    0 5px 14px rgba(0,0,0,0.04),
-    0 10px 22px rgba(0,0,0,0.035);
+.research-card:hover {
+  transform: translateY(-2px);
+  border-color: #376b67;
+  box-shadow: 0 5px 14px rgba(0,0,0,0.04),
+              0 10px 22px rgba(0,0,0,0.035);
 }
 
 
@@ -1453,4 +1451,5 @@ h3{
   background: #eef5f2;
   border-color: #376b67;
   color: #244c49;
+  text-decoration: none;
 }
