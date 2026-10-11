@@ -1,5 +1,5 @@
 ---
-title: "Excitonic Hamiltonian for singlet fission: Beyond a dimer model"
+title: "Excitonic Hamiltonian for Singlet Fission: Beyond a Dimer Model"
 authors: "Supriyo Santra, Amartya Bose, Debashree Ghosh"
 venue: "Journal of Chemical Theory and Computation"
 date: 2026-04-27
