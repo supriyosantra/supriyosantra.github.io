@@ -114,6 +114,14 @@ classes: wide
       <p>
         Understanding light absorption and excited-state processes in biological photoreceptor proteins.
       </p>
+      <div class="research-papers">
+  <span>Selected papers:</span>
+
+  <a href="https://doi.org/10.1021/acs.jpcb.4c00859"
+     target="_blank" rel="noopener noreferrer">JPCB 2024</a>
+  <a href="https://doi.org/10.1039/d4cp02112f"
+     target="_blank" rel="noopener noreferrer">PCCP 2024</a>   
+</div>
     </div>
 
   </div>
