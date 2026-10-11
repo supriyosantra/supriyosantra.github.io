@@ -1396,3 +1396,22 @@ h3{
   width: 100% !important;
   max-width: none !important;
 }
+/* =========================================================
+   GLOBAL FULL-WIDTH OVERRIDE FOR ALL PAGES (INCLUDING HOME)
+   ========================================================= */
+
+#main,
+.page,
+.archive,
+.page__inner-wrap,
+.page__content,
+.layout--single.home .page,
+.layout--single.home .page__inner-wrap,
+.layout--single.home .page__content {
+  width: 100% !important;
+  max-width: 2100px !important;
+  float: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-right: 0 !important;
+}
