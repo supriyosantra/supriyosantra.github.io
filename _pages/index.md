@@ -39,8 +39,6 @@ classes: wide
   </div>
 
 </div>
-
-</section>
 <section class="home-section home-updates">
 
   <div class="section-kicker">
