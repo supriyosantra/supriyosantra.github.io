@@ -20,20 +20,17 @@ classes: wide
       <h2>Singlet Fission</h2>
 
       <p>
-        Electronic mechanisms of multiexciton formation and triplet-pair generation.
-      </p>
-      <div class="research-papers">
+  Electronic mechanisms of multiexciton formation and triplet-pair generation.
+</p>
+
+<div class="research-papers">
+  <span>Selected papers:</span>
+
   <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.6c00429"
-     target="_blank" rel="noopener noreferrer">
-    Excitonic Hamiltonian for Singlet Fission: Beyond a Dimer Model
-  </a>
-  <span>JCTC, 2026</span>
+     target="_blank" rel="noopener noreferrer">JCTC 2026</a>
 
   <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.5c00060"
-     target="_blank" rel="noopener noreferrer">
-    Unraveling the Geometrical Effects on Singlet Fission of Carotenoids
-  </a>
-  <span>JPCA, 2025</span>
+     target="_blank" rel="noopener noreferrer">JPCA 2025</a>
 </div>
     </div>
 
