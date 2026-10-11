@@ -1397,8 +1397,12 @@ h3{
   max-width: none !important;
 }
 /* =========================================================
-   GLOBAL FULL-WIDTH OVERRIDE FOR ALL PAGES (INCLUDING HOME)
+   CONSISTENT UNIFORM WIDTH FOR ALL PAGES
    ========================================================= */
+
+:root {
+  --site-content-width: 1200px; /* Adjust this value to your preferred width (e.g., 1200px, 1300px, or 1400px) */
+}
 
 #main,
 .page,
@@ -1409,9 +1413,18 @@ h3{
 .layout--single.home .page__inner-wrap,
 .layout--single.home .page__content {
   width: 100% !important;
-  max-width: 2100px !important;
+  max-width: var(--site-content-width) !important;
   float: none !important;
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-right: 0 !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+/* Ensure inner components don't accidentally overflow */
+.research-page,
+.about-page {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
 }
