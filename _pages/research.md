@@ -5,17 +5,6 @@ author_profile: false
 classes: wide
 ---
 
-<div class="research-page">
-
-  <div class="research-intro">
-    <p>
-      I investigate how electronic structure governs excited-state dynamics
-      in molecular systems, with emphasis on singlet fission, excitonic
-      interactions, and energy transfer.
-    </p>
-  </div>
-
-
   <div class="research-grid">
 
     <div class="research-card">
