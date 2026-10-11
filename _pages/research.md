@@ -13,15 +13,6 @@ I investigate how electronic structure governs excited-state dynamics in molecul
 <div class="research-page">
 
   <div class="research-intro">
-    <p>
-      I investigate how electronic structure governs excited-state dynamics
-      in molecular systems, with emphasis on singlet fission, excitonic
-      interactions, and energy transfer.
-    </p>
-  </div>
-
-  <div class="research-heading">
-    <span>RESEARCH AREAS</span>
   </div>
 
   <div class="research-grid">
