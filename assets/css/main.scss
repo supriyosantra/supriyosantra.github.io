@@ -190,11 +190,11 @@ h3{
 /* title */
 .pub-title{
   margin:0 0 7px;
-
-  font-size:0.91rem;
+  font-size:0.91rem !important;
   font-weight:600;
-  line-height:1.4;
-  letter-spacing:-0.1px;
+  line-height:1.5;
+  letter-spacing:0;
+  color:#394747;
 }
 
 .pub-title a{
@@ -203,18 +203,13 @@ h3{
   border-bottom:none;
 }
 
-.pub-title a:hover{
-  color:var(--accent);
-}
-
-
 /* authors */
 .pub-authors{
   margin:0 0 5px;
-
-  font-size:0.91rem;
+  font-size:0.91rem !important;
+  font-weight:400;
   line-height:1.5;
-
+  letter-spacing:0;
   color:#505858;
 }
 
