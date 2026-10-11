@@ -1423,3 +1423,30 @@ h3{
   width: 100% !important;
   margin: 0 auto !important;
 }
+.research-papers {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid #e8eeeb;
+}
+
+.research-papers a {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  font-weight: 500;
+  color: #376b67;
+  text-decoration: none;
+}
+
+.research-papers a:hover {
+  color: #244c49;
+  text-decoration: underline;
+}
+
+.research-papers span {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.70rem;
+  color: #858e8b;
+}
