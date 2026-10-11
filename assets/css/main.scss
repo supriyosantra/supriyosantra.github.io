@@ -1424,29 +1424,24 @@ h3{
   margin: 0 auto !important;
 }
 .research-papers {
-  margin-top: 14px;
-  padding-top: 10px;
-  border-top: 1px solid #e8eeeb;
+  margin-top: 16px;
+  font-size: 0.78rem;
+  color: #858e8b;
+}
+
+.research-papers span {
+  margin-right: 8px;
 }
 
 .research-papers a {
-  display: block;
-  margin-top: 8px;
-  font-size: 0.78rem;
-  line-height: 1.45;
-  font-weight: 500;
+  display: inline-block;
+  margin-right: 10px;
   color: #376b67;
+  font-weight: 600;
   text-decoration: none;
 }
 
 .research-papers a:hover {
   color: #244c49;
   text-decoration: underline;
-}
-
-.research-papers span {
-  display: block;
-  margin-top: 2px;
-  font-size: 0.70rem;
-  color: #858e8b;
 }
