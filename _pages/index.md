@@ -35,7 +35,7 @@ classes: wide
   </div>
 
   <div class="home-photo">
-    <img src="/images/me.jpg" alt="Supriyo Santra">
+    <img src="/images/supriyo.jpg" alt="Supriyo Santra">
   </div>
 
 </div>
