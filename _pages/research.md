@@ -86,7 +86,7 @@ classes: wide
       <h2>Excitonic Models</h2>
 
       <p>
-        Connecting electronic structure to excitations in molecular aggregates.
+        Excited States in Molecular Aggregates through Excitonic Modelling.
       </p>
       <div class="research-papers">
   <span>Selected papers:</span>
