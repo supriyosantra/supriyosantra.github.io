@@ -88,6 +88,12 @@ classes: wide
       <p>
         Connecting electronic structure to excitations in molecular aggregates.
       </p>
+      <div class="research-papers">
+  <span>Selected papers:</span>
+
+  <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.6c00429"
+     target="_blank" rel="noopener noreferrer">JCTC 2026</a>
+</div>
     </div>
 
   </div>
