@@ -611,11 +611,12 @@ h3{
 }
 
 .home-photo img{
-  width: 175px;
-  height: 175px;
-  object-fit: cover;
-  border-radius: 50%;
-  display: block;
+  width:300px;
+  height:360px;
+  object-fit:cover;
+  border-radius:8px;
+  display:block;
+}splay: block;
 }
 
 
