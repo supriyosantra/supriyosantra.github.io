@@ -1453,3 +1453,34 @@ h3{
   color: #244c49;
   text-decoration: none;
 }
+.research-intro-box {
+  position: relative;
+  margin: 0 0 28px;
+  padding: 22px 24px;
+  background: #f7faf8;
+  border: 1px solid #dfe8e4;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.research-intro-box::after {
+  content: "";
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: -60px;
+  right: -20px;
+  border-radius: 50%;
+  background: #edf4f1;
+}
+
+.research-intro-box p {
+  position: relative;
+  z-index: 1;
+  max-width: 950px;
+  margin: 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  font-weight: 400;
+  color: #697372;
+}
