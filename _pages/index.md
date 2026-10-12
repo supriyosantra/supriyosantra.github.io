@@ -42,9 +42,8 @@ classes: wide
 <section class="home-section home-updates">
 
   <div class="section-kicker">
-    RECENT UPDATES
-  </div>
-
+  What's happening lately...
+</div>
   <div class="update-list">
 
     <div class="update-item">
