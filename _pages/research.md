@@ -17,7 +17,7 @@ classes: wide
   <div class="research-card">
 
     <div class="research-image">
-      <img src="/images/research/singlet-fission.png"
+      <img src="/images/research/singlet_fission.png"
            alt="Singlet Fission">
     </div>
 
@@ -50,7 +50,7 @@ classes: wide
   <div class="research-card">
 
     <div class="research-image">
-      <img src="/images/research/excited-state-reactivity.png"
+      <img src="/images/research/excited_reactivity.png"
            alt="Excited-State Reactivity">
     </div>
 
@@ -83,7 +83,7 @@ classes: wide
   <div class="research-card">
 
     <div class="research-image">
-      <img src="/images/research/excitonic-models.png"
+      <img src="/images/research/excitonic_model.png"
            alt="Excitonic Models">
     </div>
 
