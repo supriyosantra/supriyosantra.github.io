@@ -1644,3 +1644,60 @@ h3{
   flex-direction: column;
   gap: 7px;
 }
+
+/* =========================
+   Website logo and wordmark
+   ========================= */
+
+.site-brand {
+  margin-right: 24px;
+}
+
+.site-brand > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none !important;
+}
+
+.site-brand__logo {
+  display: block;
+  width: 68px;
+  height: 44px;
+  object-fit: contain;
+}
+
+.site-brand__name {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: 2.5px;
+  color: #82958f;
+  white-space: nowrap;
+}
+
+.site-brand__initial {
+  color: #28645b;
+}
+
+.site-brand > a:hover {
+  text-decoration: none !important;
+}
+
+/* Keep the branding compact on smaller screens */
+@media (max-width: 800px) {
+  .site-brand__logo {
+    width: 48px;
+    height: 34px;
+  }
+
+  .site-brand__name {
+    font-size: 1rem;
+    letter-spacing: 1.2px;
+  }
+
+  .site-brand {
+    margin-right: 8px;
+  }
+}
+
