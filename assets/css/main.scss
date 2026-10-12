@@ -1703,10 +1703,19 @@ h3{
     letter-spacing: 0.8px;
   }
 }
-/* Keep branding on the left and navigation on the right */
+/* Keep the logo on the left and navigation on the right */
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
 
 .greedy-nav {
-  justify-content: space-between;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 0;
 }
 
 .greedy-nav .visible-links {
