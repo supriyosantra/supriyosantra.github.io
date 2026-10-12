@@ -7,7 +7,7 @@ classes: wide
 <div class="research-intro-box">
 
   <p>
-    Understanding excited-state dynamics across scales —
+    Understanding excited-state processes across scales —
     from loosely bound electrons to molecular aggregates.
   </p>
 
