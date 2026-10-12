@@ -15,17 +15,19 @@ classes: wide
   </div>
 
 
-  <div class="contact-grid">
+  <div class="contact-card">
 
-    <div class="contact-card">
+  <div class="contact-label">Email</div>
 
-      <div class="contact-label">Email</div>
+  <a href="mailto:css2342@iacs.res.in">
+    css2342@iacs.res.in
+  </a>
 
-      <a href="mailto:supriyosantra2013@gmail.com">
-        supriyosantra2013@gmail.com
-      </a>
+  <a href="mailto:supriyosantra2013@gmail.com">
+    supriyosantra2013@gmail.com
+  </a>
 
-    </div>
+</div>
 
 
     <div class="contact-card">
@@ -39,32 +41,6 @@ classes: wide
 
     </div>
 
-
-    <div class="contact-card">
-
-      <div class="contact-label">Academic profiles</div>
-
-      <div class="contact-links">
-
-        <a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en"
-           target="_blank" rel="noopener noreferrer">
-          Google Scholar
-        </a>
-
-        <a href="https://orcid.org/0000-0003-4884-2250"
-           target="_blank" rel="noopener noreferrer">
-          ORCID
-        </a>
-
-        <a href="https://github.com/supriyosantra"
-           target="_blank" rel="noopener noreferrer">
-          GitHub
-        </a>
-
-      </div>
-
-    </div>
-
   </div>
 
 
@@ -72,6 +48,7 @@ classes: wide
 
     <div class="contact-map-heading">
       <h2>Find Me</h2>
+
       <p>
         Indian Association for the Cultivation of Science,
         Jadavpur, Kolkata, India.
