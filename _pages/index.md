@@ -24,7 +24,11 @@ classes: wide
       <span>·</span>
       Kolkata, India
     </p>
-
+    <p class="home-description">
+  I am a theoretical and computational chemist exploring excited-state
+  phenomena, from molecular electronic structure to collective behaviour
+  in molecular aggregates.
+</p>
     <div class="home-links">
       <a href="https://drive.google.com/file/d/1qDq07-gxQLUWaDjUbeH2KeWUiKQMrIll/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>
       <a href="mailto:supriyosantra2013@gmail.com">Email</a>
