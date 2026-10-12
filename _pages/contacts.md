@@ -72,7 +72,7 @@ classes: wide
 
     <div class="contact-map-frame">
       <iframe
-        src="https://maps.google.com/mapsq=Indian%20Association%20for%20the%20Cultivation%20of%20Science%2C%202A%20%26%202B%20Raja%20S%20C%20Mullick%20Road%2C%20Jadavpur%2C%20Kolkata%20700032&z=16&output=embed"
+        src="https://maps.google.com/maps?q=Indian%20Association%20for%20the%20Cultivation%20of%20Science%2C%202A%20%26%202B%20Raja%20S%20C%20Mullick%20Road%2C%20Jadavpur%2C%20Kolkata%20700032&z=16&output=embed"
         width="100%"
         height="350"
         style="border:0;"
