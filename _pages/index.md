@@ -97,28 +97,3 @@ classes: wide
 
   </div>
 
-<section class="home-contact">
-
-  <div class="section-kicker">
-    GET IN TOUCH
-  </div>
-
-  <h2>
-    Interested in research, collaboration, or just exchanging ideas?
-  </h2>
-
-  <div class="contact-links">
-
-    <a href="mailto:supriyosantra2013@gmail.com">
-      <span class="contact-icon">✉</span>
-      supriyosantra2013@gmail.com
-    </a>
-
-    <a href="/cv/" target="_blank">
-      <span class="contact-icon">↗</span>
-      Curriculum Vitae
-    </a>
-
-  </div>
-
-</section>
