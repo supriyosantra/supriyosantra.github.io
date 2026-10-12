@@ -4,53 +4,37 @@ permalink: /contact/
 author_profile: false
 classes: wide
 ---
+<div class="contact-detail">
 
-<div class="contact-page">
-
-  <!-- Introduction -->
-  <div class="contact-intro">
-    <p>
-      I am always happy to discuss research, collaborations,
-      or opportunities related to excited-state chemistry.
-    </p>
+  <div class="contact-icon">
+    <i class="far fa-envelope"></i>
   </div>
 
-  <!-- Contact details -->
-  <div class="contact-details">
+  <div class="contact-detail-text">
+    <a href="mailto:css2342@iacs.res.in">
+      css2342@iacs.res.in
+    </a>
 
-    <!-- Email -->
-    <div class="contact-detail">
+    <a href="mailto:supriyosantra2013@gmail.com">
+      supriyosantra2013@gmail.com
+    </a>
+  </div>
 
-      <div class="contact-icon">
-        <i class="far fa-envelope"></i>
-      </div>
+</div>
 
-      <div class="contact-detail-text">
-        <a href="mailto:css2342@iacs.res.in">
-          css2342@iacs.res.in
-        </a>
-
-        <a href="mailto:supriyosantra2013@gmail.com">
-          supriyosantra2013@gmail.com
-        </a>
-      </div>
-
-    </div>
 
     <!-- Location -->
     <div class="contact-detail">
 
-      <div class="contact-icon">
-        <i class="fas fa-map-marker-alt"></i>
-      </div>
-
-      <div class="contact-detail-text">
-        <p>Centenary building, IACS</p>
-      </div>
-
-    </div>
-
+  <div class="contact-icon">
+    <i class="fas fa-map-marker-alt"></i>
   </div>
+
+  <div class="contact-detail-text">
+    <p>Centenary building, IACS</p>
+  </div>
+
+</div>
 
   <!-- Map -->
   <div class="contact-map">
