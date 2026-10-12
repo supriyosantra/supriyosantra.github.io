@@ -22,8 +22,6 @@ classes: wide
     </div>
 
     <div class="research-info">
-      <div class="research-number">01</div>
-
       <h2>Singlet Fission</h2>
 
       <p>
@@ -55,8 +53,6 @@ classes: wide
     </div>
 
     <div class="research-info">
-      <div class="research-number">02</div>
-
       <h2>Excited-State Reactivity</h2>
 
       <p>
@@ -87,9 +83,7 @@ classes: wide
            alt="Excitonic Models">
     </div>
 
-    <div class="research-info">
-      <div class="research-number">03</div>
-
+    <div class="research-info">      
       <h2>Excitonic Models</h2>
 
       <p>
@@ -114,8 +108,6 @@ classes: wide
     </div>
 
     <div class="research-info">
-      <div class="research-number">04</div>
-
       <h2>Photobiology</h2>
 
       <p>
