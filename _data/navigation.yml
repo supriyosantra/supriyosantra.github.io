@@ -17,6 +17,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Contact"
+    url: /contact/
+
   #- title: "Talks"
   #  url: /talks/    
 
