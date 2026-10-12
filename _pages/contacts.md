@@ -7,6 +7,7 @@ classes: wide
 
 <div class="contact-page">
 
+  <!-- Introduction -->
   <div class="contact-intro">
     <p>
       I am always happy to discuss research, collaborations,
@@ -14,36 +15,44 @@ classes: wide
     </p>
   </div>
 
+  <!-- Contact details -->
+  <div class="contact-details">
 
-  <div class="contact-card">
+    <!-- Email -->
+    <div class="contact-detail">
 
-  <div class="contact-label">Email</div>
+      <div class="contact-icon">
+        <i class="far fa-envelope"></i>
+      </div>
 
-  <a href="mailto:css2342@iacs.res.in">
-    css2342@iacs.res.in
-  </a>
+      <div class="contact-detail-text">
+        <a href="mailto:css2342@iacs.res.in">
+          css2342@iacs.res.in
+        </a>
 
-  <a href="mailto:supriyosantra2013@gmail.com">
-    supriyosantra2013@gmail.com
-  </a>
+        <a href="mailto:supriyosantra2013@gmail.com">
+          supriyosantra2013@gmail.com
+        </a>
+      </div>
 
-</div>
+    </div>
 
+    <!-- Location -->
+    <div class="contact-detail">
 
-    <div class="contact-card">
+      <div class="contact-icon">
+        <i class="fas fa-map-marker-alt"></i>
+      </div>
 
-      <div class="contact-label">Current affiliation</div>
-
-      <p>
-        Indian Association for the Cultivation of Science<br>
-        Kolkata, India
-      </p>
+      <div class="contact-detail-text">
+        <p>Centenary building, IACS</p>
+      </div>
 
     </div>
 
   </div>
 
-
+  <!-- Map -->
   <div class="contact-map">
 
     <div class="contact-map-heading">
@@ -62,10 +71,10 @@ classes: wide
         width="100%"
         height="350"
         style="border:0;"
-        allowfullscreen=""
+        allowfullscreen
         loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"
-        title="Map showing the Indian Association for the Cultivation of Science">
+        title="Location of IACS">
       </iframe>
 
     </div>
@@ -75,7 +84,7 @@ classes: wide
       href="https://www.google.com/maps/search/?api=1&query=Indian+Association+for+the+Cultivation+of+Science+Jadavpur+Kolkata"
       target="_blank"
       rel="noopener noreferrer">
-      Open in Google Maps →
+      Open in Google Maps &rarr;
     </a>
 
   </div>
