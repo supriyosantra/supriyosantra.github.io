@@ -31,7 +31,7 @@ classes: wide
 
   <div class="contact-detail-text">
     <a href="mailto:css2342@iacs.res.in">
-      css2342@iacs.res.in
+      csss2342@iacs.res.in
     </a>
     <a href="mailto:supriyosantra2013@gmail.com">
       supriyosantra2013@gmail.com
