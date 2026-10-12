@@ -423,28 +423,24 @@ h3{
    IMAGE
    --------------------------------------------------------- */
 
-.research-image{
-  flex:0 0 125px;
-  width:125px;
-  height:125px;
-
-  display:flex;
-  align-items:center;
-  justify-content:center;
-
-  overflow:hidden;
-
-  background:#f7faf8;
-  border:1px solid #e5ebe8;
-  border-radius:8px;
+.research-image {
+  flex: 0 0 170px;
+  width: 170px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #f7faf8;
+  border: 1px solid #e5ebe8;
+  border-radius: 8px;
 }
 
-.research-image img{
-  width:100%;
-  height:100%;
-
-  object-fit:contain;
-  display:block;
+.research-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 
