@@ -4,9 +4,21 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
-            <a href="{{ base_path }}/">{{ site.title }}</a>
-          </li>
+          
+<li class="masthead__menu-item masthead__menu-item--lg persist site-brand {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
+  <a href="{{ base_path }}/" aria-label="Supriyo Santra — Home">
+    <img
+      class="site-brand__logo"
+      src="{{ base_path }}/assets/images/logo.svg"
+      alt=""
+      aria-hidden="true">
+    <span class="site-brand__name">
+      <span class="site-brand__initial">S</span>upriyo
+      <span class="site-brand__initial">S</span>antra
+    </span>
+  </a>
+</li>
+
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
