@@ -16,33 +16,46 @@ classes: wide
 
   <div class="contact-details">
 
-    <!-- Email -->
-    <div class="contact-detail">
-      <div class="contact-icon">
-        <i class="far fa-envelope" aria-hidden="true"></i>
-      </div>
+   <!-- Email -->
+<div class="contact-detail">
+  <div class="contact-icon">
+    <svg xmlns="http://www.w3.org/2000/svg"
+         width="26" height="26" viewBox="0 0 24 24"
+         fill="none" stroke="currentColor"
+         stroke-width="1.7" stroke-linecap="round"
+         stroke-linejoin="round" aria-hidden="true">
+      <rect x="3" y="5" width="18" height="14" rx="2"/>
+      <path d="m3 7 9 6 9-6"/>
+    </svg>
+  </div>
 
-      <div class="contact-detail-text">
-        <a href="mailto:css2342@iacs.res.in">
-          css2342@iacs.res.in
-        </a>
+  <div class="contact-detail-text">
+    <a href="mailto:css2342@iacs.res.in">
+      css2342@iacs.res.in
+    </a>
+    <a href="mailto:supriyosantra2013@gmail.com">
+      supriyosantra2013@gmail.com
+    </a>
+  </div>
+</div>
 
-        <a href="mailto:supriyosantra2013@gmail.com">
-          supriyosantra2013@gmail.com
-        </a>
-      </div>
-    </div>
+<!-- Location -->
+<div class="contact-detail">
+  <div class="contact-icon">
+    <svg xmlns="http://www.w3.org/2000/svg"
+         width="26" height="26" viewBox="0 0 24 24"
+         fill="none" stroke="currentColor"
+         stroke-width="1.7" stroke-linecap="round"
+         stroke-linejoin="round" aria-hidden="true">
+      <path d="M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"/>
+      <circle cx="12" cy="10" r="2.5"/>
+    </svg>
+  </div>
 
-    <!-- Location -->
-    <div class="contact-detail">
-      <div class="contact-icon">
-        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
-      </div>
-
-      <div class="contact-detail-text">
-        <p>Centenary building, IACS</p>
-      </div>
-    </div>
+  <div class="contact-detail-text">
+    <p>Centenary building, IACS</p>
+  </div>
+</div>
 
   </div>
 
