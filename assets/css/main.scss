@@ -1553,6 +1553,10 @@ h3{
   color: #244c49;
   text-decoration: none;
 }
+.contact-card a + a {
+  display: block;
+  margin-top: 6px;
+}
 
 .contact-links {
   display: flex;
