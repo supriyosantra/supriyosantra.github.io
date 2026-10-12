@@ -1625,3 +1625,21 @@ h3{
   }
 
 }
+.contact-detail {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.contact-icon {
+  flex-shrink: 0;
+  width: 28px;
+  padding-top: 3px;
+  font-size: 1.5rem;
+  color: #376b67;
+}
+
+.contact-detail-text {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
