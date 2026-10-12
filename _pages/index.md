@@ -26,7 +26,7 @@ classes: wide
     </p>
 
     <div class="home-links">
-      <a href="/cv/" target="_blank">CV</a>
+      <a href="/cv/" target="https://drive.google.com/file/d/1pSoNuejPepdimC5-DvsG01mN1AkYrwhT/view?usp=drive_link">CV</a>
       <a href="mailto:supriyosantra2013@gmail.com">Email</a>
       <a href="https://scholar.google.com/citations?user=0TxYavUAAAAJ&hl=en" target="_blank">Scholar</a>
       <a href="https://orcid.org/0000-0003-4884-2250" target="_blank">ORCID</a>
