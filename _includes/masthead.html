@@ -19,7 +19,9 @@
 
       <!-- Navigation links -->
       <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
+        <button aria-label="Toggle navigation">
+          <span class="navicon"></span>
+        </button>
 
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
@@ -29,15 +31,16 @@
               {% assign domain = base_path %}
             {% endif %}
 
-            <li class="masthead__menu-item {% if page.url == link.url or page.url contains link.url and link.url != '/' %}selected{% endif %}">
+            <li class="masthead__menu-item">
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
 
+          <!-- Theme toggle -->
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon">
               <i id="theme-icon" class="fa-solid fa-sun"
-                 aria-hidden="true" title="toggle theme"></i>
+                 aria-hidden="true" title="Toggle theme"></i>
             </a>
           </li>
         </ul>
