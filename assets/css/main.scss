@@ -1697,29 +1697,47 @@ h3{
   justify-content: flex-end;
 }
 
-/* Hide hamburger on desktop, preserve it on mobile */
+/* Hide hamburger on desktop and laptop */
 @media (min-width: 801px) {
   .greedy-nav > button {
     display: none !important;
   }
 }
 
+/* Mobile: display all links without hamburger */
 @media (max-width: 800px) {
   .masthead__menu {
+    flex-wrap: wrap;
+    align-items: center;
     gap: 10px;
   }
 
-  .site-brand {
-    gap: 6px;
+  .greedy-nav {
+    flex: 1 1 100%;
+    width: 100%;
+    overflow: visible;
   }
 
-  .site-brand__logo {
-    width: 42px;
-    height: 34px;
+  .greedy-nav > button {
+    display: none !important;
   }
 
-  .site-brand__name {
-    font-size: 0.72rem;
-    letter-spacing: 0.5px;
+  .greedy-nav .visible-links {
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 4px 16px;
+    width: 100%;
+    overflow: visible;
+  }
+
+  .greedy-nav .visible-links > li {
+    display: block !important;
+    flex: 0 0 auto;
+  }
+
+  .greedy-nav .hidden-links {
+    display: none !important;
   }
 }
+
