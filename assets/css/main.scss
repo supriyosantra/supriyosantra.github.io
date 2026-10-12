@@ -1740,4 +1740,64 @@ h3{
     display: none !important;
   }
 }
+/* =========================
+   Dark mode
+   ========================= */
+
+html[data-theme="dark"] body {
+  background: #151b1a;
+  color: #dce5e1;
+}
+
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .masthead__inner-wrap,
+html[data-theme="dark"] .greedy-nav {
+  background: #151b1a;
+}
+
+html[data-theme="dark"] .site-brand__name {
+  color: #a9bdb5;
+}
+
+html[data-theme="dark"] .site-brand__initial {
+  color: #83b6a5;
+}
+
+html[data-theme="dark"] .masthead a,
+html[data-theme="dark"] .greedy-nav a {
+  color: #d0d9d5;
+}
+
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .page__content p,
+html[data-theme="dark"] .page__content li {
+  color: #d0d9d5;
+}
+
+html[data-theme="dark"] .research-card,
+html[data-theme="dark"] .contact-card,
+html[data-theme="dark"] .research-intro-box {
+  background: #202927;
+  border-color: #374641;
+}
+
+html[data-theme="dark"] .research-card h2,
+html[data-theme="dark"] .contact-map-heading h2 {
+  color: #c0d9ce;
+}
+
+html[data-theme="dark"] .research-card p,
+html[data-theme="dark"] .contact-intro p,
+html[data-theme="dark"] .contact-map-heading p {
+  color: #b5c1bc;
+}
+
+html[data-theme="dark"] .site-footer {
+  background: #151b1a;
+  color: #b5c1bc;
+}
+
+html[data-theme="dark"] #theme-toggle a {
+  color: #e4c98b;
+}
 
