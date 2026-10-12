@@ -4,44 +4,53 @@ permalink: /contact/
 author_profile: false
 classes: wide
 ---
-<div class="contact-detail">
 
-  <div class="contact-icon">
-    <i class="far fa-envelope"></i>
+<div class="contact-page">
+
+  <div class="contact-intro">
+    <p>
+      I am always happy to discuss research, collaborations,
+      or opportunities related to excited-state chemistry.
+    </p>
   </div>
 
-  <div class="contact-detail-text">
-    <a href="mailto:css2342@iacs.res.in">
-      css2342@iacs.res.in
-    </a>
+  <div class="contact-details">
 
-    <a href="mailto:supriyosantra2013@gmail.com">
-      supriyosantra2013@gmail.com
-    </a>
-  </div>
+    <!-- Email -->
+    <div class="contact-detail">
+      <div class="contact-icon">
+        <i class="far fa-envelope" aria-hidden="true"></i>
+      </div>
 
-</div>
+      <div class="contact-detail-text">
+        <a href="mailto:css2342@iacs.res.in">
+          css2342@iacs.res.in
+        </a>
 
+        <a href="mailto:supriyosantra2013@gmail.com">
+          supriyosantra2013@gmail.com
+        </a>
+      </div>
+    </div>
 
     <!-- Location -->
     <div class="contact-detail">
+      <div class="contact-icon">
+        <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+      </div>
 
-  <div class="contact-icon">
-    <i class="fas fa-map-marker-alt"></i>
+      <div class="contact-detail-text">
+        <p>Centenary building, IACS</p>
+      </div>
+    </div>
+
   </div>
-
-  <div class="contact-detail-text">
-    <p>Centenary building, IACS</p>
-  </div>
-
-</div>
 
   <!-- Map -->
   <div class="contact-map">
 
     <div class="contact-map-heading">
       <h2>Find Me</h2>
-
       <p>
         Indian Association for the Cultivation of Science,
         Jadavpur, Kolkata, India.
@@ -49,7 +58,6 @@ classes: wide
     </div>
 
     <div class="contact-map-frame">
-
       <iframe
         src="https://maps.google.com/maps?q=Indian%20Association%20for%20the%20Cultivation%20of%20Science%2C%20Jadavpur%2C%20Kolkata&t=&z=15&ie=UTF8&iwloc=&output=embed"
         width="100%"
@@ -60,7 +68,6 @@ classes: wide
         referrerpolicy="no-referrer-when-downgrade"
         title="Location of IACS">
       </iframe>
-
     </div>
 
     <a
