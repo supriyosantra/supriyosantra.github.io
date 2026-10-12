@@ -1646,58 +1646,69 @@ h3{
 }
 
 /* =========================
-   Website logo and wordmark
+   Header branding
    ========================= */
 
 .site-brand {
-  margin-right: 24px;
+  margin-right: 0;
+  flex-shrink: 0;
 }
 
 .site-brand > a {
   display: inline-flex;
   align-items: center;
-  gap: 14px;
+  gap: 10px;
   text-decoration: none !important;
 }
 
 .site-brand__logo {
   display: block;
-  width: 68px;
-  height: 44px;
+  width: 54px;
+  height: 42px;
   object-fit: contain;
+  flex-shrink: 0;
 }
 
 .site-brand__name {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.2rem;
+  font-size: 0.92rem;
   font-weight: 400;
-  letter-spacing: 2.5px;
-  color: #82958f;
+  letter-spacing: 1.5px;
+  color: #899b95;
   white-space: nowrap;
 }
 
 .site-brand__initial {
   color: #28645b;
+  font-weight: 500;
 }
 
 .site-brand > a:hover {
   text-decoration: none !important;
 }
 
-/* Keep the branding compact on smaller screens */
+/* Mobile */
 @media (max-width: 800px) {
+  .site-brand > a {
+    gap: 7px;
+  }
+
   .site-brand__logo {
-    width: 48px;
+    width: 42px;
     height: 34px;
   }
 
   .site-brand__name {
-    font-size: 1rem;
-    letter-spacing: 1.2px;
-  }
-
-  .site-brand {
-    margin-right: 8px;
+    font-size: 0.82rem;
+    letter-spacing: 0.8px;
   }
 }
+/* Keep branding on the left and navigation on the right */
 
+.greedy-nav {
+  justify-content: space-between;
+}
+
+.greedy-nav .visible-links {
+  align-items: center;
+}
