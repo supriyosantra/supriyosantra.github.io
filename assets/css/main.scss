@@ -2046,3 +2046,15 @@ html[data-theme="dark"] #theme-toggle i {
   color: #83b6a5 !important;
   -webkit-text-fill-color: #83b6a5 !important;
 }
+/* About page: improve institution logo visibility in dark mode */
+html[data-theme="dark"] .about-page .institution-logo {
+background: #ffffff;
+border-radius: 4px;
+padding: 4px;
+box-sizing: border-box;
+}
+
+html[data-theme="dark"] .about-page .institution-logo-placeholder {
+background: #293832;
+border-color: #40554b;
+}
