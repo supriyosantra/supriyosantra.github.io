@@ -1741,14 +1741,23 @@ h3{
   }
 }
 /* =========================
-   Dark mode
+   Dark mode — all pages
    ========================= */
 
+/* Base background and text */
 html[data-theme="dark"] body {
   background: #151b1a;
   color: #dce5e1;
 }
 
+html[data-theme="dark"] #main,
+html[data-theme="dark"] .page,
+html[data-theme="dark"] .page__content {
+  background: #151b1a;
+  color: #d0d9d5;
+}
+
+/* Header and navigation */
 html[data-theme="dark"] .masthead,
 html[data-theme="dark"] .masthead__inner-wrap,
 html[data-theme="dark"] .greedy-nav {
@@ -1768,12 +1777,44 @@ html[data-theme="dark"] .greedy-nav a {
   color: #d0d9d5;
 }
 
-html[data-theme="dark"] .page__content,
+/* General page text */
 html[data-theme="dark"] .page__content p,
-html[data-theme="dark"] .page__content li {
-  color: #d0d9d5;
+html[data-theme="dark"] .page__content li,
+html[data-theme="dark"] .page__content dd,
+html[data-theme="dark"] .page__content dt {
+  color: #cbd5d0;
 }
 
+/* Links */
+html[data-theme="dark"] .page__content a {
+  color: #8fc7b5;
+}
+
+html[data-theme="dark"] .page__content a:hover {
+  color: #d0e7df;
+  text-decoration-color: #d0e7df;
+}
+
+/* Homepage description and recent publications */
+html[data-theme="dark"] .home-description {
+  color: #b5c1bc;
+}
+
+html[data-theme="dark"] .pub-title,
+html[data-theme="dark"] .pub-title a,
+html[data-theme="dark"] .archive__item-title,
+html[data-theme="dark"] .archive__item-title a {
+  color: #c6ddd5 !important;
+}
+
+html[data-theme="dark"] .pub-authors,
+html[data-theme="dark"] .pub-summary,
+html[data-theme="dark"] .archive__item,
+html[data-theme="dark"] .archive__item p {
+  color: #c1c9c6;
+}
+
+/* Research cards and introductory box */
 html[data-theme="dark"] .research-card,
 html[data-theme="dark"] .contact-card,
 html[data-theme="dark"] .research-intro-box {
@@ -1789,16 +1830,52 @@ html[data-theme="dark"] .contact-map-heading h2 {
 html[data-theme="dark"] .research-card p,
 html[data-theme="dark"] .contact-intro p,
 html[data-theme="dark"] .contact-map-heading p {
-  color: #b5c1bc;
+  color: #c1cbc6;
 }
 
+/* About page — experience and timeline cards */
+html[data-theme="dark"] .experience-card,
+html[data-theme="dark"] .timeline-card,
+html[data-theme="dark"] .cv-card {
+  background: #202927;
+  color: #d0d9d5;
+  border-color: #374641;
+}
+
+html[data-theme="dark"] .experience-card h2,
+html[data-theme="dark"] .experience-card h3,
+html[data-theme="dark"] .timeline-card h2,
+html[data-theme="dark"] .timeline-card h3,
+html[data-theme="dark"] .cv-card h2,
+html[data-theme="dark"] .cv-card h3 {
+  color: #dce5e1;
+}
+
+html[data-theme="dark"] .experience-card p,
+html[data-theme="dark"] .timeline-card p,
+html[data-theme="dark"] .cv-card p {
+  color: #c1cbc6;
+}
+
+/* Contact page */
+html[data-theme="dark"] .contact-intro,
+html[data-theme="dark"] .contact-details,
+html[data-theme="dark"] .contact-map-heading {
+  color: #cbd5d0;
+}
+
+/* Theme toggle */
+html[data-theme="dark"] #theme-toggle a {
+  color: #83b6a5 !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Footer */
 html[data-theme="dark"] .site-footer {
   background: #151b1a;
   color: #b5c1bc;
-}
-
-html[data-theme="dark"] #theme-toggle a {
-  color: #e4c98b;
 }
 /* Keep the theme toggle visible and refined */
 #theme-toggle {
