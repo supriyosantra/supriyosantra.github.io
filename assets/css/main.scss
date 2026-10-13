@@ -1828,15 +1828,10 @@ html[data-theme="dark"] #theme-toggle a {
   line-height: 1.6;
   color: #697372;
 }
-/* Theme toggle icon */
-#theme-toggle a {
+html body #theme-toggle a i#theme-icon,
+html body #theme-toggle a i#theme-icon.fa-sun,
+html body #theme-toggle a i#theme-icon.fa-moon {
 color: #28645b !important;
-}
-
-#theme-toggle a {
-color: #1b4942 !important;
-}
-
-#theme-icon {
-color: inherit !important;
+-webkit-text-fill-color: #28645b !important;
+opacity: 1 !important;
 }
