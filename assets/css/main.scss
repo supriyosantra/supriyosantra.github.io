@@ -2058,3 +2058,27 @@ html[data-theme="dark"] .about-page .institution-logo-placeholder {
 background: #293832;
 border-color: #40554b;
 }
+/* Highlight the current page in the navigation */
+.greedy-nav .visible-links li.selected > a {
+  color: #28645b !important;
+  font-weight: 600;
+  border-bottom: 2px solid #28645b;
+  padding-bottom: 5px;
+  text-decoration: none !important;
+  box-shadow: none !important;
+}
+
+/* Dark mode: brighter teal for the current page */
+html[data-theme="dark"] .greedy-nav .visible-links li.selected > a {
+  color: #83b6a5 !important;
+  border-bottom-color: #83b6a5;
+}
+
+/* Keep the selected item highlighted on hover */
+.greedy-nav .visible-links li.selected > a:hover {
+  color: #1b4942 !important;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links li.selected > a:hover {
+  color: #a9cfc3 !important;
+}
