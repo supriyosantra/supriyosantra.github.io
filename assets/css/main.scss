@@ -1740,21 +1740,17 @@ h3{
     display: none !important;
   }
 }
-/* =========================
-   Dark mode — all pages
-   ========================= */
+/* =========================================================
+   DARK MODE — ALL PAGES
+   ========================================================= */
 
 /* Base background and text */
-html[data-theme="dark"] body {
-  background: #151b1a;
-  color: #dce5e1;
-}
-
+html[data-theme="dark"] body,
 html[data-theme="dark"] #main,
 html[data-theme="dark"] .page,
 html[data-theme="dark"] .page__content {
   background: #151b1a;
-  color: #d0d9d5;
+  color: #dce5e1;
 }
 
 /* Header and navigation */
@@ -1785,7 +1781,7 @@ html[data-theme="dark"] .page__content dt {
   color: #cbd5d0;
 }
 
-/* Links */
+/* Content links */
 html[data-theme="dark"] .page__content a {
   color: #8fc7b5;
 }
@@ -1795,11 +1791,21 @@ html[data-theme="dark"] .page__content a:hover {
   text-decoration-color: #d0e7df;
 }
 
-/* Homepage description and recent publications */
+/* Homepage description */
+.home-description {
+  margin: 8px 0 18px;
+  max-width: 650px;
+  font-size: 0.82rem !important;
+  font-weight: 400 !important;
+  line-height: 1.6;
+  color: #697372;
+}
+
 html[data-theme="dark"] .home-description {
   color: #b5c1bc;
 }
 
+/* Homepage recent publications */
 html[data-theme="dark"] .pub-title,
 html[data-theme="dark"] .pub-title a,
 html[data-theme="dark"] .archive__item-title,
@@ -1814,7 +1820,22 @@ html[data-theme="dark"] .archive__item p {
   color: #c1c9c6;
 }
 
-/* Research cards and introductory box */
+/* Publications page */
+html[data-theme="dark"] .page__content .archive__item-title,
+html[data-theme="dark"] .page__content .archive__item-title a {
+  color: #c6ddd5 !important;
+}
+
+html[data-theme="dark"] .page__content .archive__item,
+html[data-theme="dark"] .page__content .archive__item p {
+  color: #c1c9c6;
+}
+
+html[data-theme="dark"] .page__content .archive__item-title a:hover {
+  color: #e0eee8 !important;
+}
+
+/* Research cards and introduction */
 html[data-theme="dark"] .research-card,
 html[data-theme="dark"] .contact-card,
 html[data-theme="dark"] .research-intro-box {
@@ -1833,28 +1854,131 @@ html[data-theme="dark"] .contact-map-heading p {
   color: #c1cbc6;
 }
 
-/* About page — experience and timeline cards */
-html[data-theme="dark"] .experience-card,
-html[data-theme="dark"] .timeline-card,
-html[data-theme="dark"] .cv-card {
-  background: #202927;
-  color: #d0d9d5;
-  border-color: #374641;
+/* About page — introduction */
+html[data-theme="dark"] .about-page .about-introduction p,
+html[data-theme="dark"] .about-page .about-text p {
+  color: #c1cbc6;
 }
 
-html[data-theme="dark"] .experience-card h2,
-html[data-theme="dark"] .experience-card h3,
-html[data-theme="dark"] .timeline-card h2,
-html[data-theme="dark"] .timeline-card h3,
-html[data-theme="dark"] .cv-card h2,
-html[data-theme="dark"] .cv-card h3 {
+/* About page — hero */
+html[data-theme="dark"] .about-page .about-hero {
+  background: #202927;
+  border-color: #374641;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+}
+
+html[data-theme="dark"] .about-page .about-hero h1,
+html[data-theme="dark"] .about-page .about-role,
+html[data-theme="dark"] .about-page .about-intro {
   color: #dce5e1;
 }
 
-html[data-theme="dark"] .experience-card p,
-html[data-theme="dark"] .timeline-card p,
-html[data-theme="dark"] .cv-card p {
-  color: #c1cbc6;
+html[data-theme="dark"] .about-page .about-affiliation {
+  color: #b5c1bc;
+}
+
+html[data-theme="dark"] .about-page .about-tags span {
+  background: #293832;
+  border-color: #40554b;
+  color: #a9cfc3;
+}
+
+/* About page — headings and accent labels */
+html[data-theme="dark"] .about-page .about-section > h2 {
+  color: #dce5e1;
+}
+
+html[data-theme="dark"] .about-page .section-kicker,
+html[data-theme="dark"] .about-page .about-eyebrow,
+html[data-theme="dark"] .about-page .timeline-date,
+html[data-theme="dark"] .about-page .toolkit-number,
+html[data-theme="dark"] .about-page .recognition-year {
+  color: #83b6a5;
+}
+
+/* About page — timeline */
+html[data-theme="dark"] .about-page .about-timeline::before {
+  background: #40534b;
+}
+
+html[data-theme="dark"] .about-page .institution-logo-placeholder {
+  background: #202927;
+  border-color: #40534b;
+  color: #a9cfc3;
+  box-shadow: none;
+}
+
+html[data-theme="dark"] .about-page .about-timeline-content {
+  background: #202927;
+  border-color: #374641;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+html[data-theme="dark"] .about-page .about-timeline-content:hover {
+  background: #242f2b;
+  border-color: #4b6559;
+  box-shadow: 0 7px 18px rgba(0, 0, 0, 0.2);
+}
+
+html[data-theme="dark"] .about-page .about-timeline-content h3 {
+  color: #dce5e1;
+}
+
+html[data-theme="dark"] .about-page .timeline-place {
+  color: #bdcbc4;
+}
+
+html[data-theme="dark"] .about-page .about-timeline-content p:not(.timeline-place):not(.timeline-supervisor),
+html[data-theme="dark"] .about-page .timeline-supervisor {
+  color: #aebbb5;
+}
+
+/* About page — education, toolkit and recognition cards */
+html[data-theme="dark"] .about-page .education-card,
+html[data-theme="dark"] .about-page .toolkit-card,
+html[data-theme="dark"] .about-page .recognition-card {
+  background: #202927;
+  color: #cbd5d0;
+  border-color: #374641;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+html[data-theme="dark"] .about-page .toolkit-card h3,
+html[data-theme="dark"] .about-page .recognition-card h3 {
+  color: #dce5e1;
+}
+
+html[data-theme="dark"] .about-page .toolkit-card p,
+html[data-theme="dark"] .about-page .recognition-card p {
+  color: #b5c1bc;
+}
+
+html[data-theme="dark"] .about-page .recognition-card:hover {
+  border-color: #4b6559;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* About page — closing section */
+html[data-theme="dark"] .about-page .about-closing {
+  border-top-color: #374641;
+}
+
+html[data-theme="dark"] .about-page .closing-line {
+  color: #dce5e1;
+}
+
+html[data-theme="dark"] .about-page .about-closing p:last-child {
+  color: #b5c1bc;
+}
+
+html[data-theme="dark"] .about-page .about-closing a {
+  color: #8fc7b5;
+  border-bottom-color: #54796b;
+}
+
+html[data-theme="dark"] .about-page .about-closing a:hover {
+  color: #d0e7df;
+  border-bottom-color: #8fc7b5;
 }
 
 /* Contact page */
@@ -1864,20 +1988,16 @@ html[data-theme="dark"] .contact-map-heading {
   color: #cbd5d0;
 }
 
-/* Theme toggle */
-html[data-theme="dark"] #theme-toggle a {
-  color: #83b6a5 !important;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-}
-
 /* Footer */
 html[data-theme="dark"] .site-footer {
   background: #151b1a;
   color: #b5c1bc;
 }
-/* Keep the theme toggle visible and refined */
+
+/* =========================================================
+   THEME TOGGLE
+   ========================================================= */
+
 #theme-toggle {
   display: list-item !important;
   visibility: visible !important;
@@ -1921,12 +2041,8 @@ html[data-theme="dark"] .site-footer {
   opacity: 1 !important;
 }
 
-/* Homepage description */
-.home-description {
-  margin: 8px 0 18px;
-  max-width: 650px;
-  font-size: 0.82rem !important;
-  font-weight: 400 !important;
-  line-height: 1.6;
-  color: #697372;
+html[data-theme="dark"] #theme-toggle a,
+html[data-theme="dark"] #theme-toggle i {
+  color: #83b6a5 !important;
+  -webkit-text-fill-color: #83b6a5 !important;
 }
