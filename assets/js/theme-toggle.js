@@ -12,7 +12,7 @@
     const isDark = theme === "dark";
 
     icon.classList.remove("fa-solid", "fa-sun", "fa-moon");
-    icon.textContent = isDark ? "☾" : "☀";
+    icon.textContent = isDark ? "☾" : "☼";
 
     icon.title = isDark ? "Switch to light mode" : "Switch to dark mode";
     toggle.setAttribute(
