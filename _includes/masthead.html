@@ -25,17 +25,36 @@
 
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
+  {% if link.url contains 'http' %}
+    {% assign domain = '' %}
+  {% else %}
+    {% assign domain = base_path %}
+  {% endif %}
 
-            <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
+  <li class="masthead__menu-item{% if link.children %} has-dropdown{% endif %}">
+    <a href="{{ domain }}{{ link.url }}">
+      {{ link.title }}
+      {% if link.children %}
+        <i class="fa-solid fa-chevron-down dropdown-arrow" aria-hidden="true"></i>
+      {% endif %}
+    </a>
 
+    {% if link.children %}
+      <ul class="submenu">
+        {% for child in link.children %}
+          {% if child.url contains 'http' %}
+            {% assign child_domain = '' %}
+          {% else %}
+            {% assign child_domain = base_path %}
+          {% endif %}
+          <li>
+            <a href="{{ child_domain }}{{ child.url }}">{{ child.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </li>
+{% endfor %}
           <!-- Theme toggle -->
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon">
