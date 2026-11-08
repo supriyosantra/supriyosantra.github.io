@@ -2142,3 +2142,24 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
   background: #293832;
   color: #a9cfc3 !important;
 }
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav {
+  overflow: visible !important;
+}
+
+.masthead {
+  position: relative;
+  z-index: 1000;
+}
+
+.greedy-nav .has-dropdown {
+  position: relative;
+  overflow: visible !important;
+}
+
+.greedy-nav .submenu {
+  z-index: 1001;
+  top: 100%;
+}
