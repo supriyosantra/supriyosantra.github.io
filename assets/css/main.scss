@@ -2202,3 +2202,24 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
   left: 0;
   z-index: 10002 !important;
 }
+  content: none !important;
+}
+
+.greedy-nav .submenu a:hover {
+  background: #f3f7f5 !important;
+  color: #1b4942 !important;
+  text-decoration: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .greedy-nav .submenu a {
+  color: #a9cfc3 !important;
+  background: transparent !important;
+}
+
+html[data-theme="dark"] .greedy-nav .submenu a:hover {
+  background: #293832 !important;
+  color: #d0e7df !important;
+}
