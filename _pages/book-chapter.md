@@ -4,16 +4,34 @@ permalink: /book-chapter/
 layout: single
 author_profile: false
 ---
-# Excited State Electronic Structure – Effect of Environment
 
-**Supriyo Santra** and **Debashree Ghosh**
+<div class="book-chapter-card">
 
-In *Electronic Density ...* — Chapter 7
+  <h2>
+    Excited State Electronic Structure – Effect of Environment
+  </h2>
 
-**Book Editors:** Pratim Kumar Chattaraj and Debdutta Chakraborty
+  <p class="book-chapter-authors">
+    <strong>Supriyo Santra</strong>, Debashree Ghosh
+  </p>
 
-**First published:** 05 July 2024
+  <p class="book-chapter-journal">
+    <em>Electron Density</em>, Chapter 7, 2024
+  </p>
 
-**DOI:** [10.1002/9781394217656.ch7](https://doi.org/10.1002/9781394217656.ch7)
+  <p class="book-chapter-editors">
+    Book Editors: Pratim Kumar Chattaraj and Debdutta Chakraborty
+  </p>
 
----
+  <p class="book-chapter-date">
+    First published: 5 July 2024
+  </p>
+
+  <a class="book-chapter-doi"
+     href="https://doi.org/10.1002/9781394217656.ch7"
+     target="_blank"
+     rel="noopener">
+    DOI
+  </a>
+
+</div>
