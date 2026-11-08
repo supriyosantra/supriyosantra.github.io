@@ -2197,13 +2197,31 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
   z-index: 10001;
 }
 
-.greedy-nav .visible-links > li.has-dropdown > .submenu {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  z-index: 10002 !important;
-}
+/* Remove unwanted submenu link decorations */
+.greedy-nav .submenu a::before,
+.greedy-nav .submenu a::after {
+  display: none !important;
   content: none !important;
+}
+
+/* Submenu hover */
+.greedy-nav .submenu a:hover {
+  background: #f3f7f5 !important;
+  color: #1b4942 !important;
+  text-decoration: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .greedy-nav .submenu a {
+  color: #a9cfc3 !important;
+  background: transparent !important;
+}
+
+html[data-theme="dark"] .greedy-nav .submenu a:hover {
+  background: #293832 !important;
+  color: #d0e7df !important;
 }
 
 .greedy-nav .submenu a:hover {
