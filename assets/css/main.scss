@@ -2181,3 +2181,24 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
   background: #293832;
   color: #a9cfc3 !important;
 }
+.greedy-nav,
+.greedy-nav .visible-links {
+  overflow: visible !important;
+}
+
+.greedy-nav {
+  position: relative;
+  z-index: 10000 !important;
+}
+
+.greedy-nav .visible-links > li.has-dropdown {
+  position: relative;
+  z-index: 10001;
+}
+
+.greedy-nav .visible-links > li.has-dropdown > .submenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10002 !important;
+}
