@@ -2107,15 +2107,16 @@ html[data-theme="dark"] .greedy-nav .visible-links li.selected > a:hover {
   top: 100%;
   left: 0;
 
-  min-width: 165px;
+  min-width: 135px;
+  width: max-content;
   margin: 0;
-  padding: 7px 0;
+  padding: 3px 0;
 
   list-style: none;
   background: #ffffff;
   border: 1px solid #e5eae8;
-  border-radius: 8px;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  border-radius: 7px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 
   z-index: 1001;
 }
@@ -2134,10 +2135,10 @@ html[data-theme="dark"] .greedy-nav .visible-links li.selected > a:hover {
 
 .greedy-nav .submenu a {
   display: block;
-  padding: 9px 15px;
+  padding: 6px 12px;
   white-space: nowrap;
 
-  font-size: 0.85rem;
+  font-size: 0.35rem;
   color: #505858 !important;
   text-decoration: none !important;
   border: none !important;
