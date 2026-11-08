@@ -2186,6 +2186,53 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
 .greedy-nav .visible-links {
   overflow: visible !important;
 }
+/* =========================================================
+   BOOK CHAPTER — PUBLICATION STYLE
+========================================================= */
+
+.book-chapter-page .page__title {
+  display: none !important;
+}
+
+.book-chapter-page .pub-card {
+  margin-top: 15px;
+  padding: 22px 24px 24px;
+  background: transparent;
+  border-bottom: 1px solid #e5ebe8;
+}
+
+.book-chapter-page .pub-title {
+  font-size: 1.05rem !important;
+  margin-bottom: 9px;
+}
+
+.book-chapter-page .pub-authors {
+  font-size: 0.91rem !important;
+}
+
+.book-chapter-page .pub-journal {
+  font-size: 0.88rem;
+}
+
+.book-chapter-page .pub-button {
+  margin-top: 12px;
+}
+
+/* Dark mode */
+html[data-theme="dark"] .book-chapter-page .pub-card {
+  background: transparent;
+  border-bottom-color: #374641;
+}
+
+html[data-theme="dark"] .book-chapter-page .pub-title,
+html[data-theme="dark"] .book-chapter-page .pub-authors {
+  color: #d0d9d5;
+}
+
+html[data-theme="dark"] .book-chapter-page .pub-journal {
+  color: #aebdb6;
+}
+}
 
 .greedy-nav {
   position: relative;
