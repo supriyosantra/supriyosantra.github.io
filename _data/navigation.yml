@@ -15,7 +15,7 @@ main:
     url: /publications/
     children:
       - title: "Book Chapter"
-        url: /book-chapter/
+        url: /publications/book-chapter/
 
   - title: "Research"
     url: /research/
