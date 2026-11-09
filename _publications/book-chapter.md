@@ -1,10 +1,9 @@
 ---
-title: "Excited State Electronic Structure – Effect of Environment"
+title: "Excited State Electronic Structure – Effect of Environment"
 authors: "Supriyo Santra, Debashree Ghosh"
-venue: "Wiley"
-date: 2026-07-05
+venue: "*Electron Density: Concepts, Computation and DFT Applications*, John Wiley & Sons, Ltd., 2024"
+date: 2024-07-05
 paperurl: "https://doi.org/10.1002/9781394217656.ch7"
-thumbnail: "/images/SF_exciton_JCTC.png"
-excerpt: "Excitonic Hamiltonian for singlet fission - pentacene aggregate systems"
+excerpt: "A book chapter discussing the effect of the molecular environment on excited-state electronic structure."
 collection: publications
 ---
