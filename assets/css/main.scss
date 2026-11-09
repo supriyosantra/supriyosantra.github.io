@@ -2308,3 +2308,197 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
   }
 
 }
+```scss
+/* =========================================================
+   MIDNIGHT NAVY — WEBSITE COLOUR THEME
+   ========================================================= */
+
+:root {
+  --accent: #263F5B;
+  --accent-dark: #1D3046;
+}
+
+/* ---------------------------------------------------------
+   GENERAL LINKS
+   --------------------------------------------------------- */
+
+.page__content a:not(.pub-button) {
+  color: #365A7A;
+}
+
+.page__content a:not(.pub-button):hover {
+  color: #1D3046;
+}
+
+/* ---------------------------------------------------------
+   NAVIGATION
+   --------------------------------------------------------- */
+
+.greedy-nav .visible-links > li > a {
+  color: #394957;
+}
+
+.greedy-nav .visible-links > li > a:hover {
+  color: #263F5B !important;
+}
+
+.greedy-nav .visible-links li.selected > a {
+  color: #263F5B !important;
+  border-bottom-color: #263F5B !important;
+}
+
+.site-brand__initial {
+  color: #263F5B;
+}
+
+/* ---------------------------------------------------------
+   PUBLICATION CARDS
+   --------------------------------------------------------- */
+
+.pub-card {
+  background: #F3F6FA;
+  border-bottom-color: #DCE3EA;
+}
+
+.pub-card::before {
+  background: #263F5B;
+}
+
+.pub-card:hover {
+  background: #EDF2F7;
+}
+
+.pub-title {
+  color: #394957;
+}
+
+.pub-title a {
+  color: #263F5B;
+}
+
+.pub-title a:hover {
+  color: #365A7A;
+}
+
+.pub-authors {
+  color: #53616D;
+}
+
+.pub-authors strong {
+  color: #263F5B;
+}
+
+.pub-journal {
+  color: #718091;
+}
+
+/* ---------------------------------------------------------
+   DOI BUTTONS
+   --------------------------------------------------------- */
+
+.pub-button {
+  background: #263F5B;
+  color: #FFFFFF !important;
+}
+
+.pub-button:hover {
+  background: #1D3046;
+  color: #FFFFFF !important;
+}
+
+/* ---------------------------------------------------------
+   PUBLICATIONS DROPDOWN
+   --------------------------------------------------------- */
+
+.greedy-nav .visible-links .submenu {
+  background: #FFFFFF;
+  border-color: #DCE3EA;
+}
+
+.greedy-nav .submenu a {
+  color: #394957 !important;
+}
+
+.greedy-nav .submenu a:hover {
+  background: #F3F6FA !important;
+  color: #263F5B !important;
+}
+
+/* ---------------------------------------------------------
+   THEME TOGGLE
+   --------------------------------------------------------- */
+
+#theme-toggle a,
+#theme-toggle i {
+  color: #263F5B !important;
+  -webkit-text-fill-color: #263F5B !important;
+}
+
+/* ---------------------------------------------------------
+   DARK MODE
+   --------------------------------------------------------- */
+
+html[data-theme="dark"] .pub-card {
+  background: #1D2936;
+  border-bottom-color: #344455;
+}
+
+html[data-theme="dark"] .pub-card:hover {
+  background: #243343;
+}
+
+html[data-theme="dark"] .pub-card::before {
+  background: #7898B8;
+}
+
+html[data-theme="dark"] .pub-title,
+html[data-theme="dark"] .pub-authors,
+html[data-theme="dark"] .pub-authors strong {
+  color: #DCE5EF;
+}
+
+html[data-theme="dark"] .pub-title a,
+html[data-theme="dark"] .page__content a:not(.pub-button) {
+  color: #9BB9D6;
+}
+
+html[data-theme="dark"] .pub-journal {
+  color: #A7B5C3;
+}
+
+html[data-theme="dark"] .pub-button {
+  background: #365A7A;
+}
+
+html[data-theme="dark"] .pub-button:hover {
+  background: #496F91;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links > li > a {
+  color: #DCE5EF;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links li.selected > a {
+  color: #9BB9D6 !important;
+  border-bottom-color: #9BB9D6 !important;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links .submenu {
+  background: #1D2936;
+  border-color: #344455;
+}
+
+html[data-theme="dark"] .greedy-nav .submenu a {
+  color: #DCE5EF !important;
+}
+
+html[data-theme="dark"] .greedy-nav .submenu a:hover {
+  background: #243343 !important;
+  color: #9BB9D6 !important;
+}
+
+html[data-theme="dark"] #theme-toggle a,
+html[data-theme="dark"] #theme-toggle i {
+  color: #9BB9D6 !important;
+  -webkit-text-fill-color: #9BB9D6 !important;
+}
