@@ -4,7 +4,6 @@ permalink: /book-chapter/
 layout: single
 author_profile: false
 share: false
-classes: book-chapter-page
 ---
 
 <div class="pub-card">
