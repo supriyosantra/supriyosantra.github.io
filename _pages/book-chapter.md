@@ -1,3 +1,12 @@
+---
+title: "Book Chapter"
+permalink: /book-chapter/
+layout: single
+author_profile: false
+share: false
+classes: book-chapter-page
+---
+
 <div class="pub-card">
   <div class="pub-content">
 
