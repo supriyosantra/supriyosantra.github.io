@@ -2288,3 +2288,23 @@ html[data-theme="dark"] .greedy-nav .submenu a:hover {
   background: #293832 !important;
   color: #d0e7df !important;
 }
+/* =========================================================
+   BOOK CHAPTER PAGE
+   ========================================================= */
+
+.book-chapter-page {
+
+  .page__title,
+  .page__meta,
+  .page__share,
+  .page__related,
+  .pagination {
+    display: none !important;
+  }
+
+  .page__content {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+}
